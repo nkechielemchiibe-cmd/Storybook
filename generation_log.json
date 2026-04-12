@@ -1,0 +1,3976 @@
+[
+  {
+    "story": "Adam and Eve in the Garden",
+    "scene": 1,
+    "prompt": "Adam and Eve walking happily in a lush beautiful garden with colourful flowers and animals",
+    "status": "success",
+    "files": [
+      "bible_400_images\\01_Adam_and_Eve_in_the_Garden\\01_Adam_and_Eve_in_the_Garden_scene01.png"
+    ],
+    "timestamp": "2026-04-11T15:56:39.211858"
+  },
+  {
+    "story": "Adam and Eve in the Garden",
+    "scene": 2,
+    "prompt": "Adam and Eve meeting a snake coiled around a tree with bright fruit",
+    "status": "success",
+    "files": [
+      "bible_400_images\\01_Adam_and_Eve_in_the_Garden\\01_Adam_and_Eve_in_the_Garden_scene02.png"
+    ],
+    "timestamp": "2026-04-11T15:56:45.073656"
+  },
+  {
+    "story": "Adam and Eve in the Garden",
+    "scene": 3,
+    "prompt": "Eve reaching up to pick the forbidden fruit from the tree",
+    "status": "success",
+    "files": [
+      "bible_400_images\\01_Adam_and_Eve_in_the_Garden\\01_Adam_and_Eve_in_the_Garden_scene03.png"
+    ],
+    "timestamp": "2026-04-11T15:56:56.482392"
+  },
+  {
+    "story": "Adam and Eve in the Garden",
+    "scene": 4,
+    "prompt": "Adam and Eve eating the fruit together looking curious",
+    "status": "error",
+    "error": "HTTPSConnectionPool(host='v3b.fal.media', port=443): Read timed out. (read timeout=60)",
+    "timestamp": "2026-04-11T15:58:03.405866"
+  },
+  {
+    "story": "Adam and Eve in the Garden",
+    "scene": 5,
+    "prompt": "Adam and Eve looking shocked and ashamed hiding behind bushes",
+    "status": "success",
+    "files": [
+      "bible_400_images\\01_Adam_and_Eve_in_the_Garden\\01_Adam_and_Eve_in_the_Garden_scene05.png"
+    ],
+    "timestamp": "2026-04-11T15:58:13.136782"
+  },
+  {
+    "story": "Adam and Eve in the Garden",
+    "scene": 6,
+    "prompt": "God walking in the garden glowing with warm light calling out to them",
+    "status": "success",
+    "files": [
+      "bible_400_images\\01_Adam_and_Eve_in_the_Garden\\01_Adam_and_Eve_in_the_Garden_scene06.png"
+    ],
+    "timestamp": "2026-04-11T15:58:25.773009"
+  },
+  {
+    "story": "Adam and Eve in the Garden",
+    "scene": 7,
+    "prompt": "Adam and Eve standing before God looking down with sad faces",
+    "status": "success",
+    "files": [
+      "bible_400_images\\01_Adam_and_Eve_in_the_Garden\\01_Adam_and_Eve_in_the_Garden_scene07.png"
+    ],
+    "timestamp": "2026-04-11T15:58:34.347183"
+  },
+  {
+    "story": "Adam and Eve in the Garden",
+    "scene": 8,
+    "prompt": "God making simple clothing for Adam and Eve out of animal skins",
+    "status": "success",
+    "files": [
+      "bible_400_images\\01_Adam_and_Eve_in_the_Garden\\01_Adam_and_Eve_in_the_Garden_scene08.png"
+    ],
+    "timestamp": "2026-04-11T15:58:43.901711"
+  },
+  {
+    "story": "Adam and Eve in the Garden",
+    "scene": 9,
+    "prompt": "An angel with a flaming sword guarding the garden gate",
+    "status": "success",
+    "files": [
+      "bible_400_images\\01_Adam_and_Eve_in_the_Garden\\01_Adam_and_Eve_in_the_Garden_scene09.png"
+    ],
+    "timestamp": "2026-04-11T15:58:50.765811"
+  },
+  {
+    "story": "Adam and Eve in the Garden",
+    "scene": 10,
+    "prompt": "Adam and Eve walking away from the garden into the open world looking hopeful",
+    "status": "success",
+    "files": [
+      "bible_400_images\\01_Adam_and_Eve_in_the_Garden\\01_Adam_and_Eve_in_the_Garden_scene10.png"
+    ],
+    "timestamp": "2026-04-11T15:58:58.272398"
+  },
+  {
+    "story": "Cain and Abel",
+    "scene": 1,
+    "prompt": "Cain farming the land and Abel tending sheep in a green field",
+    "status": "success",
+    "files": [
+      "bible_400_images\\02_Cain_and_Abel\\02_Cain_and_Abel_scene01.png"
+    ],
+    "timestamp": "2026-04-11T15:59:05.415694"
+  },
+  {
+    "story": "Cain and Abel",
+    "scene": 2,
+    "prompt": "Cain and Abel each preparing offerings on stone altars",
+    "status": "success",
+    "files": [
+      "bible_400_images\\02_Cain_and_Abel\\02_Cain_and_Abel_scene02.png"
+    ],
+    "timestamp": "2026-04-11T15:59:12.949112"
+  },
+  {
+    "story": "Cain and Abel",
+    "scene": 3,
+    "prompt": "Abel offering a lamb with a joyful grateful expression",
+    "status": "success",
+    "files": [
+      "bible_400_images\\02_Cain_and_Abel\\02_Cain_and_Abel_scene03.png"
+    ],
+    "timestamp": "2026-04-11T15:59:23.013424"
+  },
+  {
+    "story": "Cain and Abel",
+    "scene": 4,
+    "prompt": "Cain offering grain with an uncertain expression",
+    "status": "success",
+    "files": [
+      "bible_400_images\\02_Cain_and_Abel\\02_Cain_and_Abel_scene04.png"
+    ],
+    "timestamp": "2026-04-11T15:59:31.268763"
+  },
+  {
+    "story": "Cain and Abel",
+    "scene": 5,
+    "prompt": "Smoke from Abel's altar rising to heaven while Cain's offering smoulders",
+    "status": "success",
+    "files": [
+      "bible_400_images\\02_Cain_and_Abel\\02_Cain_and_Abel_scene05.png"
+    ],
+    "timestamp": "2026-04-11T15:59:43.655153"
+  },
+  {
+    "story": "Cain and Abel",
+    "scene": 6,
+    "prompt": "Cain looking angry and jealous watching Abel's offering accepted",
+    "status": "success",
+    "files": [
+      "bible_400_images\\02_Cain_and_Abel\\02_Cain_and_Abel_scene06.png"
+    ],
+    "timestamp": "2026-04-11T15:59:53.655990"
+  },
+  {
+    "story": "Cain and Abel",
+    "scene": 7,
+    "prompt": "God appearing in gentle light speaking kindly to Cain",
+    "status": "success",
+    "files": [
+      "bible_400_images\\02_Cain_and_Abel\\02_Cain_and_Abel_scene07.png"
+    ],
+    "timestamp": "2026-04-11T16:00:00.848138"
+  },
+  {
+    "story": "Cain and Abel",
+    "scene": 8,
+    "prompt": "Cain sitting alone looking sad and bitter in a field",
+    "status": "success",
+    "files": [
+      "bible_400_images\\02_Cain_and_Abel\\02_Cain_and_Abel_scene08.png"
+    ],
+    "timestamp": "2026-04-11T16:00:11.155528"
+  },
+  {
+    "story": "Cain and Abel",
+    "scene": 9,
+    "prompt": "God speaking to Cain after the incident with a serious gentle expression",
+    "status": "success",
+    "files": [
+      "bible_400_images\\02_Cain_and_Abel\\02_Cain_and_Abel_scene09.png"
+    ],
+    "timestamp": "2026-04-11T16:00:17.780080"
+  },
+  {
+    "story": "Cain and Abel",
+    "scene": 10,
+    "prompt": "Cain walking away into the distance alone carrying his burden",
+    "status": "success",
+    "files": [
+      "bible_400_images\\02_Cain_and_Abel\\02_Cain_and_Abel_scene10.png"
+    ],
+    "timestamp": "2026-04-11T16:00:22.825772"
+  },
+  {
+    "story": "Tower of Babel",
+    "scene": 1,
+    "prompt": "Many people working together happily building a huge city",
+    "status": "success",
+    "files": [
+      "bible_400_images\\03_Tower_of_Babel\\03_Tower_of_Babel_scene01.png"
+    ],
+    "timestamp": "2026-04-11T16:00:29.841562"
+  },
+  {
+    "story": "Tower of Babel",
+    "scene": 2,
+    "prompt": "Workers planning a very tall tower pointing up to the sky",
+    "status": "success",
+    "files": [
+      "bible_400_images\\03_Tower_of_Babel\\03_Tower_of_Babel_scene02.png"
+    ],
+    "timestamp": "2026-04-11T16:00:34.863694"
+  },
+  {
+    "story": "Tower of Babel",
+    "scene": 3,
+    "prompt": "Crowds of people all speaking the same language working in harmony",
+    "status": "success",
+    "files": [
+      "bible_400_images\\03_Tower_of_Babel\\03_Tower_of_Babel_scene03.png"
+    ],
+    "timestamp": "2026-04-11T16:00:40.087587"
+  },
+  {
+    "story": "Tower of Babel",
+    "scene": 4,
+    "prompt": "Workers stacking massive bricks higher and higher on the tower",
+    "status": "success",
+    "files": [
+      "bible_400_images\\03_Tower_of_Babel\\03_Tower_of_Babel_scene04.png"
+    ],
+    "timestamp": "2026-04-11T16:00:45.345591"
+  },
+  {
+    "story": "Tower of Babel",
+    "scene": 5,
+    "prompt": "The tower growing enormously tall reaching into the clouds",
+    "status": "error",
+    "error": "HTTPSConnectionPool(host='v3b.fal.media', port=443): Read timed out. (read timeout=60)",
+    "timestamp": "2026-04-11T16:01:49.971444"
+  },
+  {
+    "story": "Tower of Babel",
+    "scene": 6,
+    "prompt": "God looking down from heaven at the tower with a thoughtful expression",
+    "status": "success",
+    "files": [
+      "bible_400_images\\03_Tower_of_Babel\\03_Tower_of_Babel_scene06.png"
+    ],
+    "timestamp": "2026-04-11T16:01:55.353934"
+  },
+  {
+    "story": "Tower of Babel",
+    "scene": 7,
+    "prompt": "Suddenly people looking confused unable to understand each other",
+    "status": "success",
+    "files": [
+      "bible_400_images\\03_Tower_of_Babel\\03_Tower_of_Babel_scene07.png"
+    ],
+    "timestamp": "2026-04-11T16:02:00.689630"
+  },
+  {
+    "story": "Tower of Babel",
+    "scene": 8,
+    "prompt": "Workers arguing and gesturing unable to communicate",
+    "status": "success",
+    "files": [
+      "bible_400_images\\03_Tower_of_Babel\\03_Tower_of_Babel_scene08.png"
+    ],
+    "timestamp": "2026-04-11T16:02:06.057751"
+  },
+  {
+    "story": "Tower of Babel",
+    "scene": 9,
+    "prompt": "Groups of confused people forming separate groups speaking different languages",
+    "status": "success",
+    "files": [
+      "bible_400_images\\03_Tower_of_Babel\\03_Tower_of_Babel_scene09.png"
+    ],
+    "timestamp": "2026-04-11T16:02:11.739033"
+  },
+  {
+    "story": "Tower of Babel",
+    "scene": 10,
+    "prompt": "People scattering in all directions across the earth to different lands",
+    "status": "success",
+    "files": [
+      "bible_400_images\\03_Tower_of_Babel\\03_Tower_of_Babel_scene10.png"
+    ],
+    "timestamp": "2026-04-11T16:02:17.082380"
+  },
+  {
+    "story": "Abraham and Isaac",
+    "scene": 1,
+    "prompt": "Abraham and his son Isaac walking together happily on a sunny path",
+    "status": "success",
+    "files": [
+      "bible_400_images\\04_Abraham_and_Isaac\\04_Abraham_and_Isaac_scene01.png"
+    ],
+    "timestamp": "2026-04-11T16:02:22.320368"
+  },
+  {
+    "story": "Abraham and Isaac",
+    "scene": 2,
+    "prompt": "God speaking to Abraham in a glowing vision with a serious message",
+    "status": "success",
+    "files": [
+      "bible_400_images\\04_Abraham_and_Isaac\\04_Abraham_and_Isaac_scene02.png"
+    ],
+    "timestamp": "2026-04-11T16:02:27.653645"
+  },
+  {
+    "story": "Abraham and Isaac",
+    "scene": 3,
+    "prompt": "Abraham looking troubled but faithful preparing for a journey",
+    "status": "success",
+    "files": [
+      "bible_400_images\\04_Abraham_and_Isaac\\04_Abraham_and_Isaac_scene03.png"
+    ],
+    "timestamp": "2026-04-11T16:02:33.577769"
+  },
+  {
+    "story": "Abraham and Isaac",
+    "scene": 4,
+    "prompt": "Abraham and Isaac walking up a mountain carrying wood",
+    "status": "success",
+    "files": [
+      "bible_400_images\\04_Abraham_and_Isaac\\04_Abraham_and_Isaac_scene04.png"
+    ],
+    "timestamp": "2026-04-11T16:02:39.181796"
+  },
+  {
+    "story": "Abraham and Isaac",
+    "scene": 5,
+    "prompt": "Isaac asking his father where the sacrifice is Abraham looking calm",
+    "status": "success",
+    "files": [
+      "bible_400_images\\04_Abraham_and_Isaac\\04_Abraham_and_Isaac_scene05.png"
+    ],
+    "timestamp": "2026-04-11T16:02:45.731821"
+  },
+  {
+    "story": "Abraham and Isaac",
+    "scene": 6,
+    "prompt": "Abraham building an altar on the mountain top with Isaac watching",
+    "status": "success",
+    "files": [
+      "bible_400_images\\04_Abraham_and_Isaac\\04_Abraham_and_Isaac_scene06.png"
+    ],
+    "timestamp": "2026-04-11T16:02:51.420619"
+  },
+  {
+    "story": "Abraham and Isaac",
+    "scene": 7,
+    "prompt": "Abraham reaching up with eyes closed praying faithfully",
+    "status": "success",
+    "files": [
+      "bible_400_images\\04_Abraham_and_Isaac\\04_Abraham_and_Isaac_scene07.png"
+    ],
+    "timestamp": "2026-04-11T16:02:56.822316"
+  },
+  {
+    "story": "Abraham and Isaac",
+    "scene": 8,
+    "prompt": "An angel bursting through clouds stopping Abraham with an outstretched hand",
+    "status": "success",
+    "files": [
+      "bible_400_images\\04_Abraham_and_Isaac\\04_Abraham_and_Isaac_scene08.png"
+    ],
+    "timestamp": "2026-04-11T16:03:02.293767"
+  },
+  {
+    "story": "Abraham and Isaac",
+    "scene": 9,
+    "prompt": "Abraham and Isaac discovering a ram caught in a bush nearby",
+    "status": "success",
+    "files": [
+      "bible_400_images\\04_Abraham_and_Isaac\\04_Abraham_and_Isaac_scene09.png"
+    ],
+    "timestamp": "2026-04-11T16:03:07.649671"
+  },
+  {
+    "story": "Abraham and Isaac",
+    "scene": 10,
+    "prompt": "Abraham and Isaac hugging joyfully beside the altar praising God",
+    "status": "error",
+    "error": "HTTPSConnectionPool(host='v3b.fal.media', port=443): Read timed out. (read timeout=60)",
+    "timestamp": "2026-04-11T16:04:13.079250"
+  },
+  {
+    "story": "Jacob and Esau",
+    "scene": 1,
+    "prompt": "Twin brothers Jacob and Esau as children playing together",
+    "status": "success",
+    "files": [
+      "bible_400_images\\05_Jacob_and_Esau\\05_Jacob_and_Esau_scene01.png"
+    ],
+    "timestamp": "2026-04-11T16:04:18.482855"
+  },
+  {
+    "story": "Jacob and Esau",
+    "scene": 2,
+    "prompt": "Esau as a strong hairy hunter returning home with game",
+    "status": "success",
+    "files": [
+      "bible_400_images\\05_Jacob_and_Esau\\05_Jacob_and_Esau_scene02.png"
+    ],
+    "timestamp": "2026-04-11T16:04:23.440452"
+  },
+  {
+    "story": "Jacob and Esau",
+    "scene": 3,
+    "prompt": "Jacob cooking a pot of red stew that smells delicious",
+    "status": "success",
+    "files": [
+      "bible_400_images\\05_Jacob_and_Esau\\05_Jacob_and_Esau_scene03.png"
+    ],
+    "timestamp": "2026-04-11T16:04:28.954017"
+  },
+  {
+    "story": "Jacob and Esau",
+    "scene": 4,
+    "prompt": "Esau arriving home very hungry asking Jacob for stew",
+    "status": "success",
+    "files": [
+      "bible_400_images\\05_Jacob_and_Esau\\05_Jacob_and_Esau_scene04.png"
+    ],
+    "timestamp": "2026-04-11T16:04:51.988365"
+  },
+  {
+    "story": "Jacob and Esau",
+    "scene": 5,
+    "prompt": "Jacob and Esau making a deal over the bowl of stew",
+    "status": "success",
+    "files": [
+      "bible_400_images\\05_Jacob_and_Esau\\05_Jacob_and_Esau_scene05.png"
+    ],
+    "timestamp": "2026-04-11T16:04:56.824112"
+  },
+  {
+    "story": "Jacob and Esau",
+    "scene": 6,
+    "prompt": "Old father Isaac lying in bed asking Esau to bring him food",
+    "status": "success",
+    "files": [
+      "bible_400_images\\05_Jacob_and_Esau\\05_Jacob_and_Esau_scene06.png"
+    ],
+    "timestamp": "2026-04-11T16:05:01.818144"
+  },
+  {
+    "story": "Jacob and Esau",
+    "scene": 7,
+    "prompt": "Jacob wearing animal skin on his arms to feel like Esau",
+    "status": "success",
+    "files": [
+      "bible_400_images\\05_Jacob_and_Esau\\05_Jacob_and_Esau_scene07.png"
+    ],
+    "timestamp": "2026-04-11T16:05:06.615889"
+  },
+  {
+    "story": "Jacob and Esau",
+    "scene": 8,
+    "prompt": "Jacob bringing food to old blind Isaac in his tent",
+    "status": "success",
+    "files": [
+      "bible_400_images\\05_Jacob_and_Esau\\05_Jacob_and_Esau_scene08.png"
+    ],
+    "timestamp": "2026-04-11T16:05:11.761296"
+  },
+  {
+    "story": "Jacob and Esau",
+    "scene": 9,
+    "prompt": "Isaac blessing Jacob thinking he is Esau eyes closed",
+    "status": "success",
+    "files": [
+      "bible_400_images\\05_Jacob_and_Esau\\05_Jacob_and_Esau_scene09.png"
+    ],
+    "timestamp": "2026-04-11T16:05:16.754752"
+  },
+  {
+    "story": "Jacob and Esau",
+    "scene": 10,
+    "prompt": "Esau arriving angry and sad as Jacob runs away into the distance",
+    "status": "success",
+    "files": [
+      "bible_400_images\\05_Jacob_and_Esau\\05_Jacob_and_Esau_scene10.png"
+    ],
+    "timestamp": "2026-04-11T16:05:21.838921"
+  },
+  {
+    "story": "Joseph and His Coat",
+    "scene": 1,
+    "prompt": "Father Jacob giving Joseph a beautiful colourful coat",
+    "status": "success",
+    "files": [
+      "bible_400_images\\06_Joseph_and_His_Coat\\06_Joseph_and_His_Coat_scene01.png"
+    ],
+    "timestamp": "2026-04-11T16:05:26.662307"
+  },
+  {
+    "story": "Joseph and His Coat",
+    "scene": 2,
+    "prompt": "Joseph wearing his bright coat proudly surrounded by brothers",
+    "status": "success",
+    "files": [
+      "bible_400_images\\06_Joseph_and_His_Coat\\06_Joseph_and_His_Coat_scene02.png"
+    ],
+    "timestamp": "2026-04-11T16:05:31.371996"
+  },
+  {
+    "story": "Joseph and His Coat",
+    "scene": 3,
+    "prompt": "Brothers looking jealous and angry at Joseph",
+    "status": "error",
+    "error": "HTTPSConnectionPool(host='v3b.fal.media', port=443): Read timed out. (read timeout=60)",
+    "timestamp": "2026-04-11T16:06:35.879913"
+  },
+  {
+    "story": "Joseph and His Coat",
+    "scene": 4,
+    "prompt": "Joseph telling his brothers about his dream with stars bowing",
+    "status": "success",
+    "files": [
+      "bible_400_images\\06_Joseph_and_His_Coat\\06_Joseph_and_His_Coat_scene04.png"
+    ],
+    "timestamp": "2026-04-11T16:06:40.759913"
+  },
+  {
+    "story": "Joseph and His Coat",
+    "scene": 5,
+    "prompt": "Brothers plotting together in a field while Joseph approaches",
+    "status": "success",
+    "files": [
+      "bible_400_images\\06_Joseph_and_His_Coat\\06_Joseph_and_His_Coat_scene05.png"
+    ],
+    "timestamp": "2026-04-11T16:06:45.608964"
+  },
+  {
+    "story": "Joseph and His Coat",
+    "scene": 6,
+    "prompt": "Brothers grabbing Joseph and taking his colourful coat",
+    "status": "success",
+    "files": [
+      "bible_400_images\\06_Joseph_and_His_Coat\\06_Joseph_and_His_Coat_scene06.png"
+    ],
+    "timestamp": "2026-04-11T16:06:50.507689"
+  },
+  {
+    "story": "Joseph and His Coat",
+    "scene": 7,
+    "prompt": "Joseph being lowered into a deep empty well by his brothers",
+    "status": "success",
+    "files": [
+      "bible_400_images\\06_Joseph_and_His_Coat\\06_Joseph_and_His_Coat_scene07.png"
+    ],
+    "timestamp": "2026-04-11T16:06:55.297930"
+  },
+  {
+    "story": "Joseph and His Coat",
+    "scene": 8,
+    "prompt": "Merchants on camels passing by as brothers look on",
+    "status": "success",
+    "files": [
+      "bible_400_images\\06_Joseph_and_His_Coat\\06_Joseph_and_His_Coat_scene08.png"
+    ],
+    "timestamp": "2026-04-11T16:07:00.135674"
+  },
+  {
+    "story": "Joseph and His Coat",
+    "scene": 9,
+    "prompt": "Joseph being sold to the merchants for silver coins",
+    "status": "success",
+    "files": [
+      "bible_400_images\\06_Joseph_and_His_Coat\\06_Joseph_and_His_Coat_scene09.png"
+    ],
+    "timestamp": "2026-04-11T16:07:05.268713"
+  },
+  {
+    "story": "Joseph and His Coat",
+    "scene": 10,
+    "prompt": "Brothers showing Jacob the torn coat dipped in goat blood as Jacob cries",
+    "status": "success",
+    "files": [
+      "bible_400_images\\06_Joseph_and_His_Coat\\06_Joseph_and_His_Coat_scene10.png"
+    ],
+    "timestamp": "2026-04-11T16:07:10.298328"
+  },
+  {
+    "story": "Joseph in Egypt",
+    "scene": 1,
+    "prompt": "Joseph arriving in Egypt in chains looking brave",
+    "status": "success",
+    "files": [
+      "bible_400_images\\07_Joseph_in_Egypt\\07_Joseph_in_Egypt_scene01.png"
+    ],
+    "timestamp": "2026-04-11T16:07:15.745578"
+  },
+  {
+    "story": "Joseph in Egypt",
+    "scene": 2,
+    "prompt": "Joseph working hard and faithfully in Potiphar's house",
+    "status": "success",
+    "files": [
+      "bible_400_images\\07_Joseph_in_Egypt\\07_Joseph_in_Egypt_scene02.png"
+    ],
+    "timestamp": "2026-04-11T16:07:20.909359"
+  },
+  {
+    "story": "Joseph in Egypt",
+    "scene": 3,
+    "prompt": "Joseph being put in prison looking calm and trusting God",
+    "status": "success",
+    "files": [
+      "bible_400_images\\07_Joseph_in_Egypt\\07_Joseph_in_Egypt_scene03.png"
+    ],
+    "timestamp": "2026-04-11T16:07:26.206939"
+  },
+  {
+    "story": "Joseph in Egypt",
+    "scene": 4,
+    "prompt": "Joseph in prison listening carefully to two prisoners' dreams",
+    "status": "success",
+    "files": [
+      "bible_400_images\\07_Joseph_in_Egypt\\07_Joseph_in_Egypt_scene04.png"
+    ],
+    "timestamp": "2026-04-11T16:07:31.609080"
+  },
+  {
+    "story": "Joseph in Egypt",
+    "scene": 5,
+    "prompt": "Joseph explaining dreams to the prisoners with confidence",
+    "status": "success",
+    "files": [
+      "bible_400_images\\07_Joseph_in_Egypt\\07_Joseph_in_Egypt_scene05.png"
+    ],
+    "timestamp": "2026-04-11T16:07:37.422808"
+  },
+  {
+    "story": "Joseph in Egypt",
+    "scene": 6,
+    "prompt": "Pharaoh waking up troubled from his dream of cows and grain",
+    "status": "success",
+    "files": [
+      "bible_400_images\\07_Joseph_in_Egypt\\07_Joseph_in_Egypt_scene06.png"
+    ],
+    "timestamp": "2026-04-11T16:07:43.198562"
+  },
+  {
+    "story": "Joseph in Egypt",
+    "scene": 7,
+    "prompt": "Pharaoh's servants bringing Joseph from prison to the palace",
+    "status": "success",
+    "files": [
+      "bible_400_images\\07_Joseph_in_Egypt\\07_Joseph_in_Egypt_scene07.png"
+    ],
+    "timestamp": "2026-04-11T16:07:48.756261"
+  },
+  {
+    "story": "Joseph in Egypt",
+    "scene": 8,
+    "prompt": "Joseph standing before Pharaoh explaining the seven years dream",
+    "status": "success",
+    "files": [
+      "bible_400_images\\07_Joseph_in_Egypt\\07_Joseph_in_Egypt_scene08.png"
+    ],
+    "timestamp": "2026-04-11T16:07:54.763123"
+  },
+  {
+    "story": "Joseph in Egypt",
+    "scene": 9,
+    "prompt": "Pharaoh placing a golden chain around Joseph's neck making him ruler",
+    "status": "success",
+    "files": [
+      "bible_400_images\\07_Joseph_in_Egypt\\07_Joseph_in_Egypt_scene09.png"
+    ],
+    "timestamp": "2026-04-11T16:08:03.048508"
+  },
+  {
+    "story": "Joseph in Egypt",
+    "scene": 10,
+    "prompt": "Joseph overseeing grain being stored in great Egyptian warehouses",
+    "status": "success",
+    "files": [
+      "bible_400_images\\07_Joseph_in_Egypt\\07_Joseph_in_Egypt_scene10.png"
+    ],
+    "timestamp": "2026-04-11T16:08:10.598744"
+  },
+  {
+    "story": "Baby Moses in the Basket",
+    "scene": 1,
+    "prompt": "A Hebrew mother holding her baby Moses lovingly looking worried",
+    "status": "success",
+    "files": [
+      "bible_400_images\\08_Baby_Moses_in_the_Basket\\08_Baby_Moses_in_the_Basket_scene01.png"
+    ],
+    "timestamp": "2026-04-11T16:08:16.152411"
+  },
+  {
+    "story": "Baby Moses in the Basket",
+    "scene": 2,
+    "prompt": "Mother weaving a basket carefully making it waterproof",
+    "status": "success",
+    "files": [
+      "bible_400_images\\08_Baby_Moses_in_the_Basket\\08_Baby_Moses_in_the_Basket_scene02.png"
+    ],
+    "timestamp": "2026-04-11T16:08:21.630327"
+  },
+  {
+    "story": "Baby Moses in the Basket",
+    "scene": 3,
+    "prompt": "Mother placing baby Moses gently into the basket with tears",
+    "status": "success",
+    "files": [
+      "bible_400_images\\08_Baby_Moses_in_the_Basket\\08_Baby_Moses_in_the_Basket_scene03.png"
+    ],
+    "timestamp": "2026-04-11T16:08:27.736573"
+  },
+  {
+    "story": "Baby Moses in the Basket",
+    "scene": 4,
+    "prompt": "The basket floating on the calm Nile river among reeds",
+    "status": "success",
+    "files": [
+      "bible_400_images\\08_Baby_Moses_in_the_Basket\\08_Baby_Moses_in_the_Basket_scene04.png"
+    ],
+    "timestamp": "2026-04-11T16:08:33.106678"
+  },
+  {
+    "story": "Baby Moses in the Basket",
+    "scene": 5,
+    "prompt": "Moses' sister Miriam watching from behind tall grass",
+    "status": "success",
+    "files": [
+      "bible_400_images\\08_Baby_Moses_in_the_Basket\\08_Baby_Moses_in_the_Basket_scene05.png"
+    ],
+    "timestamp": "2026-04-11T16:08:38.624401"
+  },
+  {
+    "story": "Baby Moses in the Basket",
+    "scene": 6,
+    "prompt": "Egyptian princess walking to the river with her servants",
+    "status": "success",
+    "files": [
+      "bible_400_images\\08_Baby_Moses_in_the_Basket\\08_Baby_Moses_in_the_Basket_scene06.png"
+    ],
+    "timestamp": "2026-04-11T16:08:43.708155"
+  },
+  {
+    "story": "Baby Moses in the Basket",
+    "scene": 7,
+    "prompt": "Princess discovering the basket and looking inside with surprise",
+    "status": "success",
+    "files": [
+      "bible_400_images\\08_Baby_Moses_in_the_Basket\\08_Baby_Moses_in_the_Basket_scene07.png"
+    ],
+    "timestamp": "2026-04-11T16:08:49.165281"
+  },
+  {
+    "story": "Baby Moses in the Basket",
+    "scene": 8,
+    "prompt": "Baby Moses crying and princess looking moved with compassion",
+    "status": "error",
+    "error": "HTTPSConnectionPool(host='v3b.fal.media', port=443): Read timed out. (read timeout=60)",
+    "timestamp": "2026-04-11T16:09:54.175161"
+  },
+  {
+    "story": "Baby Moses in the Basket",
+    "scene": 9,
+    "prompt": "Miriam stepping forward offering to find a nurse for the baby",
+    "status": "success",
+    "files": [
+      "bible_400_images\\08_Baby_Moses_in_the_Basket\\08_Baby_Moses_in_the_Basket_scene09.png"
+    ],
+    "timestamp": "2026-04-11T16:10:00.519776"
+  },
+  {
+    "story": "Baby Moses in the Basket",
+    "scene": 10,
+    "prompt": "Moses' own mother holding him as the princess smiles and watches",
+    "status": "success",
+    "files": [
+      "bible_400_images\\08_Baby_Moses_in_the_Basket\\08_Baby_Moses_in_the_Basket_scene10.png"
+    ],
+    "timestamp": "2026-04-11T16:10:06.413428"
+  },
+  {
+    "story": "The Burning Bush",
+    "scene": 1,
+    "prompt": "Moses as a shepherd watching his flock of sheep on a hillside",
+    "status": "success",
+    "files": [
+      "bible_400_images\\09_The_Burning_Bush\\09_The_Burning_Bush_scene01.png"
+    ],
+    "timestamp": "2026-04-11T16:10:11.814608"
+  },
+  {
+    "story": "The Burning Bush",
+    "scene": 2,
+    "prompt": "Moses noticing something strange in the distance on the mountain",
+    "status": "success",
+    "files": [
+      "bible_400_images\\09_The_Burning_Bush\\09_The_Burning_Bush_scene02.png"
+    ],
+    "timestamp": "2026-04-11T16:10:17.144325"
+  },
+  {
+    "story": "The Burning Bush",
+    "scene": 3,
+    "prompt": "A bush burning brightly with fire but not burning up",
+    "status": "success",
+    "files": [
+      "bible_400_images\\09_The_Burning_Bush\\09_The_Burning_Bush_scene03.png"
+    ],
+    "timestamp": "2026-04-11T16:10:22.403793"
+  },
+  {
+    "story": "The Burning Bush",
+    "scene": 4,
+    "prompt": "Moses walking closer to the bush looking amazed",
+    "status": "success",
+    "files": [
+      "bible_400_images\\09_The_Burning_Bush\\09_The_Burning_Bush_scene04.png"
+    ],
+    "timestamp": "2026-04-11T16:10:27.915647"
+  },
+  {
+    "story": "The Burning Bush",
+    "scene": 5,
+    "prompt": "Moses removing his sandals standing barefoot before the bush",
+    "status": "success",
+    "files": [
+      "bible_400_images\\09_The_Burning_Bush\\09_The_Burning_Bush_scene05.png"
+    ],
+    "timestamp": "2026-04-11T16:10:33.346323"
+  },
+  {
+    "story": "The Burning Bush",
+    "scene": 6,
+    "prompt": "The bush glowing intensely with a warm golden light and Moses shielding eyes",
+    "status": "success",
+    "files": [
+      "bible_400_images\\09_The_Burning_Bush\\09_The_Burning_Bush_scene06.png"
+    ],
+    "timestamp": "2026-04-11T16:10:38.714736"
+  },
+  {
+    "story": "The Burning Bush",
+    "scene": 7,
+    "prompt": "God speaking from the bush Moses covering his face in awe",
+    "status": "success",
+    "files": [
+      "bible_400_images\\09_The_Burning_Bush\\09_The_Burning_Bush_scene07.png"
+    ],
+    "timestamp": "2026-04-11T16:10:44.148729"
+  },
+  {
+    "story": "The Burning Bush",
+    "scene": 8,
+    "prompt": "Moses listening carefully with his hand raised attentively",
+    "status": "success",
+    "files": [
+      "bible_400_images\\09_The_Burning_Bush\\09_The_Burning_Bush_scene08.png"
+    ],
+    "timestamp": "2026-04-11T16:10:49.468467"
+  },
+  {
+    "story": "The Burning Bush",
+    "scene": 9,
+    "prompt": "Moses looking uncertain then slowly nodding with growing courage",
+    "status": "success",
+    "files": [
+      "bible_400_images\\09_The_Burning_Bush\\09_The_Burning_Bush_scene09.png"
+    ],
+    "timestamp": "2026-04-11T16:10:54.810164"
+  },
+  {
+    "story": "The Burning Bush",
+    "scene": 10,
+    "prompt": "Moses walking down the mountain with his staff looking determined",
+    "status": "success",
+    "files": [
+      "bible_400_images\\09_The_Burning_Bush\\09_The_Burning_Bush_scene10.png"
+    ],
+    "timestamp": "2026-04-11T16:11:00.039986"
+  },
+  {
+    "story": "The Ten Plagues of Egypt",
+    "scene": 1,
+    "prompt": "Moses standing boldly before Pharaoh in the grand Egyptian palace",
+    "status": "success",
+    "files": [
+      "bible_400_images\\10_The_Ten_Plagues_of_Egypt\\10_The_Ten_Plagues_of_Egypt_scene01.png"
+    ],
+    "timestamp": "2026-04-11T16:11:05.272579"
+  },
+  {
+    "story": "The Ten Plagues of Egypt",
+    "scene": 2,
+    "prompt": "The Nile river turning red as Moses holds his staff over it",
+    "status": "success",
+    "files": [
+      "bible_400_images\\10_The_Ten_Plagues_of_Egypt\\10_The_Ten_Plagues_of_Egypt_scene02.png"
+    ],
+    "timestamp": "2026-04-11T16:11:10.242504"
+  },
+  {
+    "story": "The Ten Plagues of Egypt",
+    "scene": 3,
+    "prompt": "Frogs jumping everywhere covering Egyptian homes and streets",
+    "status": "success",
+    "files": [
+      "bible_400_images\\10_The_Ten_Plagues_of_Egypt\\10_The_Ten_Plagues_of_Egypt_scene03.png"
+    ],
+    "timestamp": "2026-04-11T16:11:15.604219"
+  },
+  {
+    "story": "The Ten Plagues of Egypt",
+    "scene": 4,
+    "prompt": "Egyptians swatting at swarms of gnats and flies everywhere",
+    "status": "success",
+    "files": [
+      "bible_400_images\\10_The_Ten_Plagues_of_Egypt\\10_The_Ten_Plagues_of_Egypt_scene04.png"
+    ],
+    "timestamp": "2026-04-11T16:11:20.812040"
+  },
+  {
+    "story": "The Ten Plagues of Egypt",
+    "scene": 5,
+    "prompt": "Egyptian livestock falling sick while Hebrew livestock stand healthy",
+    "status": "success",
+    "files": [
+      "bible_400_images\\10_The_Ten_Plagues_of_Egypt\\10_The_Ten_Plagues_of_Egypt_scene05.png"
+    ],
+    "timestamp": "2026-04-11T16:11:26.141666"
+  },
+  {
+    "story": "The Ten Plagues of Egypt",
+    "scene": 6,
+    "prompt": "Egyptians covered in painful boils looking miserable",
+    "status": "success",
+    "files": [
+      "bible_400_images\\10_The_Ten_Plagues_of_Egypt\\10_The_Ten_Plagues_of_Egypt_scene06.png"
+    ],
+    "timestamp": "2026-04-11T16:11:31.563291"
+  },
+  {
+    "story": "The Ten Plagues of Egypt",
+    "scene": 7,
+    "prompt": "Giant hailstones crashing down destroying Egyptian crops",
+    "status": "success",
+    "files": [
+      "bible_400_images\\10_The_Ten_Plagues_of_Egypt\\10_The_Ten_Plagues_of_Egypt_scene07.png"
+    ],
+    "timestamp": "2026-04-11T16:11:37.075126"
+  },
+  {
+    "story": "The Ten Plagues of Egypt",
+    "scene": 8,
+    "prompt": "A massive cloud of locusts darkening the sky eating all the crops",
+    "status": "success",
+    "files": [
+      "bible_400_images\\10_The_Ten_Plagues_of_Egypt\\10_The_Ten_Plagues_of_Egypt_scene08.png"
+    ],
+    "timestamp": "2026-04-11T16:11:42.782902"
+  },
+  {
+    "story": "The Ten Plagues of Egypt",
+    "scene": 9,
+    "prompt": "Total darkness covering Egypt while Hebrew homes glow with light",
+    "status": "success",
+    "files": [
+      "bible_400_images\\10_The_Ten_Plagues_of_Egypt\\10_The_Ten_Plagues_of_Egypt_scene09.png"
+    ],
+    "timestamp": "2026-04-11T16:11:48.250871"
+  },
+  {
+    "story": "The Ten Plagues of Egypt",
+    "scene": 10,
+    "prompt": "Pharaoh finally standing up and pointing away telling Moses to leave Egypt",
+    "status": "success",
+    "files": [
+      "bible_400_images\\10_The_Ten_Plagues_of_Egypt\\10_The_Ten_Plagues_of_Egypt_scene10.png"
+    ],
+    "timestamp": "2026-04-11T16:11:53.765661"
+  },
+  {
+    "story": "Joshua and the Battle of Jericho",
+    "scene": 1,
+    "prompt": "Joshua standing before the massive walled city of Jericho looking up",
+    "status": "success",
+    "files": [
+      "bible_400_images\\11_Joshua_and_the_Battle_of_Jeric\\11_Joshua_and_the_Battle_of_Jeric_scene01.png"
+    ],
+    "timestamp": "2026-04-11T16:11:59.049185"
+  },
+  {
+    "story": "Joshua and the Battle of Jericho",
+    "scene": 2,
+    "prompt": "An angel appearing to Joshua with a sword delivering God's message",
+    "status": "success",
+    "files": [
+      "bible_400_images\\11_Joshua_and_the_Battle_of_Jeric\\11_Joshua_and_the_Battle_of_Jeric_scene02.png"
+    ],
+    "timestamp": "2026-04-11T16:12:04.573093"
+  },
+  {
+    "story": "Joshua and the Battle of Jericho",
+    "scene": 3,
+    "prompt": "Joshua gathering all the Israelite soldiers and priests together",
+    "status": "success",
+    "files": [
+      "bible_400_images\\11_Joshua_and_the_Battle_of_Jeric\\11_Joshua_and_the_Battle_of_Jeric_scene03.png"
+    ],
+    "timestamp": "2026-04-11T16:12:10.031743"
+  },
+  {
+    "story": "Joshua and the Battle of Jericho",
+    "scene": 4,
+    "prompt": "The Israelites beginning their march around the walls of Jericho",
+    "status": "success",
+    "files": [
+      "bible_400_images\\11_Joshua_and_the_Battle_of_Jeric\\11_Joshua_and_the_Battle_of_Jeric_scene04.png"
+    ],
+    "timestamp": "2026-04-11T16:12:15.250123"
+  },
+  {
+    "story": "Joshua and the Battle of Jericho",
+    "scene": 5,
+    "prompt": "Priests carrying the ark of the covenant blowing trumpets proudly",
+    "status": "success",
+    "files": [
+      "bible_400_images\\11_Joshua_and_the_Battle_of_Jeric\\11_Joshua_and_the_Battle_of_Jeric_scene05.png"
+    ],
+    "timestamp": "2026-04-11T16:12:20.144356"
+  },
+  {
+    "story": "Joshua and the Battle of Jericho",
+    "scene": 6,
+    "prompt": "The Israelites marching silently around the walls on the sixth day",
+    "status": "success",
+    "files": [
+      "bible_400_images\\11_Joshua_and_the_Battle_of_Jeric\\11_Joshua_and_the_Battle_of_Jeric_scene06.png"
+    ],
+    "timestamp": "2026-04-11T16:12:25.241925"
+  },
+  {
+    "story": "Joshua and the Battle of Jericho",
+    "scene": 7,
+    "prompt": "The seventh day all the people marching around seven times",
+    "status": "success",
+    "files": [
+      "bible_400_images\\11_Joshua_and_the_Battle_of_Jeric\\11_Joshua_and_the_Battle_of_Jeric_scene07.png"
+    ],
+    "timestamp": "2026-04-11T16:12:30.547497"
+  },
+  {
+    "story": "Joshua and the Battle of Jericho",
+    "scene": 8,
+    "prompt": "All the priests blowing trumpets loudly together",
+    "status": "success",
+    "files": [
+      "bible_400_images\\11_Joshua_and_the_Battle_of_Jeric\\11_Joshua_and_the_Battle_of_Jeric_scene08.png"
+    ],
+    "timestamp": "2026-04-11T16:12:35.839716"
+  },
+  {
+    "story": "Joshua and the Battle of Jericho",
+    "scene": 9,
+    "prompt": "All the Israelites shouting together with hands raised to heaven",
+    "status": "success",
+    "files": [
+      "bible_400_images\\11_Joshua_and_the_Battle_of_Jeric\\11_Joshua_and_the_Battle_of_Jeric_scene09.png"
+    ],
+    "timestamp": "2026-04-11T16:12:41.202090"
+  },
+  {
+    "story": "Joshua and the Battle of Jericho",
+    "scene": 10,
+    "prompt": "The massive walls of Jericho crumbling and falling down dramatically",
+    "status": "success",
+    "files": [
+      "bible_400_images\\11_Joshua_and_the_Battle_of_Jeric\\11_Joshua_and_the_Battle_of_Jeric_scene10.png"
+    ],
+    "timestamp": "2026-04-11T16:12:46.454221"
+  },
+  {
+    "story": "Samson and His Strength",
+    "scene": 1,
+    "prompt": "Young Samson growing up strong and healthy in a village",
+    "status": "success",
+    "files": [
+      "bible_400_images\\12_Samson_and_His_Strength\\12_Samson_and_His_Strength_scene01.png"
+    ],
+    "timestamp": "2026-04-11T16:12:51.790999"
+  },
+  {
+    "story": "Samson and His Strength",
+    "scene": 2,
+    "prompt": "Samson lifting a huge boulder easily showing his great strength",
+    "status": "success",
+    "files": [
+      "bible_400_images\\12_Samson_and_His_Strength\\12_Samson_and_His_Strength_scene02.png"
+    ],
+    "timestamp": "2026-04-11T16:12:57.049347"
+  },
+  {
+    "story": "Samson and His Strength",
+    "scene": 3,
+    "prompt": "Samson tearing apart a lion with his bare hands bravely",
+    "status": "success",
+    "files": [
+      "bible_400_images\\12_Samson_and_His_Strength\\12_Samson_and_His_Strength_scene03.png"
+    ],
+    "timestamp": "2026-04-11T16:13:02.134770"
+  },
+  {
+    "story": "Samson and His Strength",
+    "scene": 4,
+    "prompt": "Samson carrying the massive city gates on his shoulders",
+    "status": "success",
+    "files": [
+      "bible_400_images\\12_Samson_and_His_Strength\\12_Samson_and_His_Strength_scene04.png"
+    ],
+    "timestamp": "2026-04-11T16:13:07.402863"
+  },
+  {
+    "story": "Samson and His Strength",
+    "scene": 5,
+    "prompt": "Samson surrounded by enemies looking fearless and strong",
+    "status": "success",
+    "files": [
+      "bible_400_images\\12_Samson_and_His_Strength\\12_Samson_and_His_Strength_scene05.png"
+    ],
+    "timestamp": "2026-04-11T16:13:12.608543"
+  },
+  {
+    "story": "Samson and His Strength",
+    "scene": 6,
+    "prompt": "Delilah sitting close to Samson speaking sweetly to him",
+    "status": "success",
+    "files": [
+      "bible_400_images\\12_Samson_and_His_Strength\\12_Samson_and_His_Strength_scene06.png"
+    ],
+    "timestamp": "2026-04-11T16:13:19.313602"
+  },
+  {
+    "story": "Samson and His Strength",
+    "scene": 7,
+    "prompt": "Samson sleeping as Delilah signals someone to cut his hair",
+    "status": "success",
+    "files": [
+      "bible_400_images\\12_Samson_and_His_Strength\\12_Samson_and_His_Strength_scene07.png"
+    ],
+    "timestamp": "2026-04-11T16:13:24.330369"
+  },
+  {
+    "story": "Samson and His Strength",
+    "scene": 8,
+    "prompt": "Samson waking up weak and confused surrounded by enemies",
+    "status": "success",
+    "files": [
+      "bible_400_images\\12_Samson_and_His_Strength\\12_Samson_and_His_Strength_scene08.png"
+    ],
+    "timestamp": "2026-04-11T16:13:29.511436"
+  },
+  {
+    "story": "Samson and His Strength",
+    "scene": 9,
+    "prompt": "Samson in prison blind and chained turning a grinding wheel sadly",
+    "status": "success",
+    "files": [
+      "bible_400_images\\12_Samson_and_His_Strength\\12_Samson_and_His_Strength_scene09.png"
+    ],
+    "timestamp": "2026-04-11T16:13:35.156146"
+  },
+  {
+    "story": "Samson and His Strength",
+    "scene": 10,
+    "prompt": "Samson standing between two great pillars hands pushing them strength returning",
+    "status": "success",
+    "files": [
+      "bible_400_images\\12_Samson_and_His_Strength\\12_Samson_and_His_Strength_scene10.png"
+    ],
+    "timestamp": "2026-04-11T16:13:40.853697"
+  },
+  {
+    "story": "Ruth and Naomi",
+    "scene": 1,
+    "prompt": "Naomi and her two daughters-in-law standing together on a road",
+    "status": "success",
+    "files": [
+      "bible_400_images\\13_Ruth_and_Naomi\\13_Ruth_and_Naomi_scene01.png"
+    ],
+    "timestamp": "2026-04-11T16:13:46.260313"
+  },
+  {
+    "story": "Ruth and Naomi",
+    "scene": 2,
+    "prompt": "Naomi tearfully telling the women to return to their families",
+    "status": "success",
+    "files": [
+      "bible_400_images\\13_Ruth_and_Naomi\\13_Ruth_and_Naomi_scene02.png"
+    ],
+    "timestamp": "2026-04-11T16:13:51.514301"
+  },
+  {
+    "story": "Ruth and Naomi",
+    "scene": 3,
+    "prompt": "Orpah hugging Naomi goodbye and turning back",
+    "status": "success",
+    "files": [
+      "bible_400_images\\13_Ruth_and_Naomi\\13_Ruth_and_Naomi_scene03.png"
+    ],
+    "timestamp": "2026-04-11T16:13:56.815393"
+  },
+  {
+    "story": "Ruth and Naomi",
+    "scene": 4,
+    "prompt": "Ruth clinging to Naomi refusing to leave her side",
+    "status": "success",
+    "files": [
+      "bible_400_images\\13_Ruth_and_Naomi\\13_Ruth_and_Naomi_scene04.png"
+    ],
+    "timestamp": "2026-04-11T16:14:01.899313"
+  },
+  {
+    "story": "Ruth and Naomi",
+    "scene": 5,
+    "prompt": "Ruth and Naomi walking together toward Bethlehem",
+    "status": "success",
+    "files": [
+      "bible_400_images\\13_Ruth_and_Naomi\\13_Ruth_and_Naomi_scene05.png"
+    ],
+    "timestamp": "2026-04-11T16:14:06.854145"
+  },
+  {
+    "story": "Ruth and Naomi",
+    "scene": 6,
+    "prompt": "Ruth bending down in fields gathering leftover grain",
+    "status": "success",
+    "files": [
+      "bible_400_images\\13_Ruth_and_Naomi\\13_Ruth_and_Naomi_scene06.png"
+    ],
+    "timestamp": "2026-04-11T16:14:12.173281"
+  },
+  {
+    "story": "Ruth and Naomi",
+    "scene": 7,
+    "prompt": "Boaz arriving in his field and noticing Ruth working hard",
+    "status": "success",
+    "files": [
+      "bible_400_images\\13_Ruth_and_Naomi\\13_Ruth_and_Naomi_scene07.png"
+    ],
+    "timestamp": "2026-04-11T16:14:17.129214"
+  },
+  {
+    "story": "Ruth and Naomi",
+    "scene": 8,
+    "prompt": "Boaz speaking kindly to Ruth and offering her food and water",
+    "status": "success",
+    "files": [
+      "bible_400_images\\13_Ruth_and_Naomi\\13_Ruth_and_Naomi_scene08.png"
+    ],
+    "timestamp": "2026-04-11T16:14:22.242588"
+  },
+  {
+    "story": "Ruth and Naomi",
+    "scene": 9,
+    "prompt": "Ruth bringing home an armful of grain to Naomi",
+    "status": "success",
+    "files": [
+      "bible_400_images\\13_Ruth_and_Naomi\\13_Ruth_and_Naomi_scene09.png"
+    ],
+    "timestamp": "2026-04-11T16:14:27.204295"
+  },
+  {
+    "story": "Ruth and Naomi",
+    "scene": 10,
+    "prompt": "Boaz and Ruth standing together happily as Naomi watches joyfully",
+    "status": "success",
+    "files": [
+      "bible_400_images\\13_Ruth_and_Naomi\\13_Ruth_and_Naomi_scene10.png"
+    ],
+    "timestamp": "2026-04-11T16:14:32.490858"
+  },
+  {
+    "story": "Samuel Hears God's Voice",
+    "scene": 1,
+    "prompt": "Young Samuel sleeping peacefully in the temple at night",
+    "status": "success",
+    "files": [
+      "bible_400_images\\14_Samuel_Hears_Gods_Voice\\14_Samuel_Hears_Gods_Voice_scene01.png"
+    ],
+    "timestamp": "2026-04-11T16:14:37.594794"
+  },
+  {
+    "story": "Samuel Hears God's Voice",
+    "scene": 2,
+    "prompt": "Samuel sitting up in bed hearing his name called",
+    "status": "error",
+    "error": "('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))",
+    "timestamp": "2026-04-11T16:15:04.698171"
+  },
+  {
+    "story": "Samuel Hears God's Voice",
+    "scene": 3,
+    "prompt": "Samuel running to Eli the priest saying here I am",
+    "status": "success",
+    "files": [
+      "bible_400_images\\14_Samuel_Hears_Gods_Voice\\14_Samuel_Hears_Gods_Voice_scene03.png"
+    ],
+    "timestamp": "2026-04-11T16:15:09.828971"
+  },
+  {
+    "story": "Samuel Hears God's Voice",
+    "scene": 4,
+    "prompt": "Eli telling Samuel to go back to sleep he did not call him",
+    "status": "success",
+    "files": [
+      "bible_400_images\\14_Samuel_Hears_Gods_Voice\\14_Samuel_Hears_Gods_Voice_scene04.png"
+    ],
+    "timestamp": "2026-04-11T16:15:15.204274"
+  },
+  {
+    "story": "Samuel Hears God's Voice",
+    "scene": 5,
+    "prompt": "Samuel lying down again then hearing the voice a second time",
+    "status": "success",
+    "files": [
+      "bible_400_images\\14_Samuel_Hears_Gods_Voice\\14_Samuel_Hears_Gods_Voice_scene05.png"
+    ],
+    "timestamp": "2026-04-11T16:15:20.543427"
+  },
+  {
+    "story": "Samuel Hears God's Voice",
+    "scene": 6,
+    "prompt": "Samuel running to Eli again Eli looking surprised",
+    "status": "success",
+    "files": [
+      "bible_400_images\\14_Samuel_Hears_Gods_Voice\\14_Samuel_Hears_Gods_Voice_scene06.png"
+    ],
+    "timestamp": "2026-04-11T16:15:25.698832"
+  },
+  {
+    "story": "Samuel Hears God's Voice",
+    "scene": 7,
+    "prompt": "Eli realising God is calling Samuel and giving him instructions",
+    "status": "success",
+    "files": [
+      "bible_400_images\\14_Samuel_Hears_Gods_Voice\\14_Samuel_Hears_Gods_Voice_scene07.png"
+    ],
+    "timestamp": "2026-04-11T16:15:30.821559"
+  },
+  {
+    "story": "Samuel Hears God's Voice",
+    "scene": 8,
+    "prompt": "Samuel lying very still listening carefully saying speak Lord",
+    "status": "success",
+    "files": [
+      "bible_400_images\\14_Samuel_Hears_Gods_Voice\\14_Samuel_Hears_Gods_Voice_scene08.png"
+    ],
+    "timestamp": "2026-04-11T16:15:36.016429"
+  },
+  {
+    "story": "Samuel Hears God's Voice",
+    "scene": 9,
+    "prompt": "God speaking to Samuel with a gentle glowing light in the room",
+    "status": "success",
+    "files": [
+      "bible_400_images\\14_Samuel_Hears_Gods_Voice\\14_Samuel_Hears_Gods_Voice_scene09.png"
+    ],
+    "timestamp": "2026-04-11T16:15:41.243398"
+  },
+  {
+    "story": "Samuel Hears God's Voice",
+    "scene": 10,
+    "prompt": "Samuel in the morning telling Eli everything God said bravely",
+    "status": "success",
+    "files": [
+      "bible_400_images\\14_Samuel_Hears_Gods_Voice\\14_Samuel_Hears_Gods_Voice_scene10.png"
+    ],
+    "timestamp": "2026-04-11T16:15:46.343064"
+  },
+  {
+    "story": "Elijah and the Fire",
+    "scene": 1,
+    "prompt": "Elijah standing calm and confident before a large crowd on a hillside",
+    "status": "success",
+    "files": [
+      "bible_400_images\\15_Elijah_and_the_Fire\\15_Elijah_and_the_Fire_scene01.png"
+    ],
+    "timestamp": "2026-04-11T16:15:51.529166"
+  },
+  {
+    "story": "Elijah and the Fire",
+    "scene": 2,
+    "prompt": "The crowd looking confused and unsure whispering to each other",
+    "status": "success",
+    "files": [
+      "bible_400_images\\15_Elijah_and_the_Fire\\15_Elijah_and_the_Fire_scene02.png"
+    ],
+    "timestamp": "2026-04-11T16:15:56.759126"
+  },
+  {
+    "story": "Elijah and the Fire",
+    "scene": 3,
+    "prompt": "Elijah carefully stacking large stones building an altar",
+    "status": "success",
+    "files": [
+      "bible_400_images\\15_Elijah_and_the_Fire\\15_Elijah_and_the_Fire_scene03.png"
+    ],
+    "timestamp": "2026-04-11T16:16:01.621020"
+  },
+  {
+    "story": "Elijah and the Fire",
+    "scene": 4,
+    "prompt": "Wood being placed carefully on the altar ready for fire",
+    "status": "success",
+    "files": [
+      "bible_400_images\\15_Elijah_and_the_Fire\\15_Elijah_and_the_Fire_scene04.png"
+    ],
+    "timestamp": "2026-04-11T16:16:06.720795"
+  },
+  {
+    "story": "Elijah and the Fire",
+    "scene": 5,
+    "prompt": "Water being poured over the altar soaking the wood completely",
+    "status": "success",
+    "files": [
+      "bible_400_images\\15_Elijah_and_the_Fire\\15_Elijah_and_the_Fire_scene05.png"
+    ],
+    "timestamp": "2026-04-11T16:16:11.738020"
+  },
+  {
+    "story": "Elijah and the Fire",
+    "scene": 6,
+    "prompt": "Elijah kneeling in prayer with hands raised to heaven eyes closed",
+    "status": "success",
+    "files": [
+      "bible_400_images\\15_Elijah_and_the_Fire\\15_Elijah_and_the_Fire_scene06.png"
+    ],
+    "timestamp": "2026-04-11T16:16:16.837610"
+  },
+  {
+    "story": "Elijah and the Fire",
+    "scene": 7,
+    "prompt": "The crowd watching in complete silence holding their breath",
+    "status": "success",
+    "files": [
+      "bible_400_images\\15_Elijah_and_the_Fire\\15_Elijah_and_the_Fire_scene07.png"
+    ],
+    "timestamp": "2026-04-11T16:16:21.881728"
+  },
+  {
+    "story": "Elijah and the Fire",
+    "scene": 8,
+    "prompt": "Fire exploding down from heaven onto the altar dramatically",
+    "status": "success",
+    "files": [
+      "bible_400_images\\15_Elijah_and_the_Fire\\15_Elijah_and_the_Fire_scene08.png"
+    ],
+    "timestamp": "2026-04-11T16:16:27.103677"
+  },
+  {
+    "story": "Elijah and the Fire",
+    "scene": 9,
+    "prompt": "Bright powerful fire burning strongly consuming everything on the altar",
+    "status": "success",
+    "files": [
+      "bible_400_images\\15_Elijah_and_the_Fire\\15_Elijah_and_the_Fire_scene09.png"
+    ],
+    "timestamp": "2026-04-11T16:16:32.201490"
+  },
+  {
+    "story": "Elijah and the Fire",
+    "scene": 10,
+    "prompt": "The crowd falling to their knees in awe and worship celebrating",
+    "status": "success",
+    "files": [
+      "bible_400_images\\15_Elijah_and_the_Fire\\15_Elijah_and_the_Fire_scene10.png"
+    ],
+    "timestamp": "2026-04-11T16:16:37.262667"
+  },
+  {
+    "story": "Elisha and the Widow's Oil",
+    "scene": 1,
+    "prompt": "A worried widow with her two sons standing at the door of Elisha",
+    "status": "success",
+    "files": [
+      "bible_400_images\\16_Elisha_and_the_Widows_Oil\\16_Elisha_and_the_Widows_Oil_scene01.png"
+    ],
+    "timestamp": "2026-04-11T16:16:42.131516"
+  },
+  {
+    "story": "Elisha and the Widow's Oil",
+    "scene": 2,
+    "prompt": "Elisha listening carefully to the widow with a kind expression",
+    "status": "success",
+    "files": [
+      "bible_400_images\\16_Elisha_and_the_Widows_Oil\\16_Elisha_and_the_Widows_Oil_scene02.png"
+    ],
+    "timestamp": "2026-04-11T16:16:47.244309"
+  },
+  {
+    "story": "Elisha and the Widow's Oil",
+    "scene": 3,
+    "prompt": "Elisha asking the widow what she has in her house",
+    "status": "success",
+    "files": [
+      "bible_400_images\\16_Elisha_and_the_Widows_Oil\\16_Elisha_and_the_Widows_Oil_scene03.png"
+    ],
+    "timestamp": "2026-04-11T16:16:52.170074"
+  },
+  {
+    "story": "Elisha and the Widow's Oil",
+    "scene": 4,
+    "prompt": "The widow showing Elisha a small jar of oil",
+    "status": "success",
+    "files": [
+      "bible_400_images\\16_Elisha_and_the_Widows_Oil\\16_Elisha_and_the_Widows_Oil_scene04.png"
+    ],
+    "timestamp": "2026-04-11T16:16:57.036537"
+  },
+  {
+    "story": "Elisha and the Widow's Oil",
+    "scene": 5,
+    "prompt": "Elisha instructing the widow to gather empty jars from neighbours",
+    "status": "success",
+    "files": [
+      "bible_400_images\\16_Elisha_and_the_Widows_Oil\\16_Elisha_and_the_Widows_Oil_scene05.png"
+    ],
+    "timestamp": "2026-04-11T16:17:02.144107"
+  },
+  {
+    "story": "Elisha and the Widow's Oil",
+    "scene": 6,
+    "prompt": "The widow and sons collecting many empty jars from neighbours",
+    "status": "success",
+    "files": [
+      "bible_400_images\\16_Elisha_and_the_Widows_Oil\\16_Elisha_and_the_Widows_Oil_scene06.png"
+    ],
+    "timestamp": "2026-04-11T16:17:07.139919"
+  },
+  {
+    "story": "Elisha and the Widow's Oil",
+    "scene": 7,
+    "prompt": "The widow pouring oil from her small jar into the first empty jar",
+    "status": "success",
+    "files": [
+      "bible_400_images\\16_Elisha_and_the_Widows_Oil\\16_Elisha_and_the_Widows_Oil_scene07.png"
+    ],
+    "timestamp": "2026-04-11T16:17:12.262472"
+  },
+  {
+    "story": "Elisha and the Widow's Oil",
+    "scene": 8,
+    "prompt": "Oil continuing to flow as jar after jar fills up miraculously",
+    "status": "success",
+    "files": [
+      "bible_400_images\\16_Elisha_and_the_Widows_Oil\\16_Elisha_and_the_Widows_Oil_scene08.png"
+    ],
+    "timestamp": "2026-04-11T16:17:17.213337"
+  },
+  {
+    "story": "Elisha and the Widow's Oil",
+    "scene": 9,
+    "prompt": "The last jar filling up and the oil finally stopping",
+    "status": "success",
+    "files": [
+      "bible_400_images\\16_Elisha_and_the_Widows_Oil\\16_Elisha_and_the_Widows_Oil_scene09.png"
+    ],
+    "timestamp": "2026-04-11T16:17:22.401624"
+  },
+  {
+    "story": "Elisha and the Widow's Oil",
+    "scene": 10,
+    "prompt": "The widow returning to Elisha joyfully with all the full jars of oil",
+    "status": "success",
+    "files": [
+      "bible_400_images\\16_Elisha_and_the_Widows_Oil\\16_Elisha_and_the_Widows_Oil_scene10.png"
+    ],
+    "timestamp": "2026-04-11T16:17:27.495213"
+  },
+  {
+    "story": "Isaiah's Vision of God",
+    "scene": 1,
+    "prompt": "Isaiah praying alone in a peaceful room in Jerusalem",
+    "status": "success",
+    "files": [
+      "bible_400_images\\17_Isaiahs_Vision_of_God\\17_Isaiahs_Vision_of_God_scene01.png"
+    ],
+    "timestamp": "2026-04-11T16:17:32.697660"
+  },
+  {
+    "story": "Isaiah's Vision of God",
+    "scene": 2,
+    "prompt": "The room filling with a brilliant heavenly light",
+    "status": "success",
+    "files": [
+      "bible_400_images\\17_Isaiahs_Vision_of_God\\17_Isaiahs_Vision_of_God_scene02.png"
+    ],
+    "timestamp": "2026-04-11T16:17:37.641131"
+  },
+  {
+    "story": "Isaiah's Vision of God",
+    "scene": 3,
+    "prompt": "Isaiah seeing a vision of God seated on a high and glorious throne",
+    "status": "success",
+    "files": [
+      "bible_400_images\\17_Isaiahs_Vision_of_God\\17_Isaiahs_Vision_of_God_scene03.png"
+    ],
+    "timestamp": "2026-04-11T16:17:42.807197"
+  },
+  {
+    "story": "Isaiah's Vision of God",
+    "scene": 4,
+    "prompt": "Magnificent angels with six wings flying around the throne",
+    "status": "success",
+    "files": [
+      "bible_400_images\\17_Isaiahs_Vision_of_God\\17_Isaiahs_Vision_of_God_scene04.png"
+    ],
+    "timestamp": "2026-04-11T16:17:47.774348"
+  },
+  {
+    "story": "Isaiah's Vision of God",
+    "scene": 5,
+    "prompt": "The angels calling out to each other holy holy holy",
+    "status": "success",
+    "files": [
+      "bible_400_images\\17_Isaiahs_Vision_of_God\\17_Isaiahs_Vision_of_God_scene05.png"
+    ],
+    "timestamp": "2026-04-11T16:17:52.872038"
+  },
+  {
+    "story": "Isaiah's Vision of God",
+    "scene": 6,
+    "prompt": "The temple shaking and filling with smoke",
+    "status": "success",
+    "files": [
+      "bible_400_images\\17_Isaiahs_Vision_of_God\\17_Isaiahs_Vision_of_God_scene06.png"
+    ],
+    "timestamp": "2026-04-11T16:17:58.071808"
+  },
+  {
+    "story": "Isaiah's Vision of God",
+    "scene": 7,
+    "prompt": "Isaiah falling down overwhelmed crying out he is unworthy",
+    "status": "success",
+    "files": [
+      "bible_400_images\\17_Isaiahs_Vision_of_God\\17_Isaiahs_Vision_of_God_scene07.png"
+    ],
+    "timestamp": "2026-04-11T16:18:03.405804"
+  },
+  {
+    "story": "Isaiah's Vision of God",
+    "scene": 8,
+    "prompt": "An angel flying toward Isaiah holding a glowing coal",
+    "status": "success",
+    "files": [
+      "bible_400_images\\17_Isaiahs_Vision_of_God\\17_Isaiahs_Vision_of_God_scene08.png"
+    ],
+    "timestamp": "2026-04-11T16:18:08.505457"
+  },
+  {
+    "story": "Isaiah's Vision of God",
+    "scene": 9,
+    "prompt": "The angel touching Isaiah's lips with the coal purifying him",
+    "status": "success",
+    "files": [
+      "bible_400_images\\17_Isaiahs_Vision_of_God\\17_Isaiahs_Vision_of_God_scene09.png"
+    ],
+    "timestamp": "2026-04-11T16:18:13.550957"
+  },
+  {
+    "story": "Isaiah's Vision of God",
+    "scene": 10,
+    "prompt": "Isaiah standing up strong saying here am I send me",
+    "status": "error",
+    "error": "HTTPSConnectionPool(host='v3b.fal.media', port=443): Read timed out. (read timeout=60)",
+    "timestamp": "2026-04-11T16:19:18.502096"
+  },
+  {
+    "story": "Shadrach Meshach and Abednego",
+    "scene": 1,
+    "prompt": "A giant golden statue standing tall in a wide open field",
+    "status": "success",
+    "files": [
+      "bible_400_images\\18_Shadrach_Meshach_and_Abednego\\18_Shadrach_Meshach_and_Abednego_scene01.png"
+    ],
+    "timestamp": "2026-04-11T16:19:23.332373"
+  },
+  {
+    "story": "Shadrach Meshach and Abednego",
+    "scene": 2,
+    "prompt": "A crowd of people bowing down to the statue",
+    "status": "success",
+    "files": [
+      "bible_400_images\\18_Shadrach_Meshach_and_Abednego\\18_Shadrach_Meshach_and_Abednego_scene02.png"
+    ],
+    "timestamp": "2026-04-11T16:19:28.477247"
+  },
+  {
+    "story": "Shadrach Meshach and Abednego",
+    "scene": 3,
+    "prompt": "Three young men Shadrach Meshach Abednego standing upright refusing to bow",
+    "status": "success",
+    "files": [
+      "bible_400_images\\18_Shadrach_Meshach_and_Abednego\\18_Shadrach_Meshach_and_Abednego_scene03.png"
+    ],
+    "timestamp": "2026-04-11T16:19:33.595474"
+  },
+  {
+    "story": "Shadrach Meshach and Abednego",
+    "scene": 4,
+    "prompt": "Angry soldiers grabbing the three men and dragging them before the king",
+    "status": "success",
+    "files": [
+      "bible_400_images\\18_Shadrach_Meshach_and_Abednego\\18_Shadrach_Meshach_and_Abednego_scene04.png"
+    ],
+    "timestamp": "2026-04-11T16:19:38.921825"
+  },
+  {
+    "story": "Shadrach Meshach and Abednego",
+    "scene": 5,
+    "prompt": "The three men standing calmly before the furious king",
+    "status": "success",
+    "files": [
+      "bible_400_images\\18_Shadrach_Meshach_and_Abednego\\18_Shadrach_Meshach_and_Abednego_scene05.png"
+    ],
+    "timestamp": "2026-04-11T16:19:43.981778"
+  },
+  {
+    "story": "Shadrach Meshach and Abednego",
+    "scene": 6,
+    "prompt": "The king pointing to a blazing furnace threatening them",
+    "status": "success",
+    "files": [
+      "bible_400_images\\18_Shadrach_Meshach_and_Abednego\\18_Shadrach_Meshach_and_Abednego_scene06.png"
+    ],
+    "timestamp": "2026-04-11T16:19:49.174636"
+  },
+  {
+    "story": "Shadrach Meshach and Abednego",
+    "scene": 7,
+    "prompt": "Soldiers tying up the three men and throwing them into the fire",
+    "status": "success",
+    "files": [
+      "bible_400_images\\18_Shadrach_Meshach_and_Abednego\\18_Shadrach_Meshach_and_Abednego_scene07.png"
+    ],
+    "timestamp": "2026-04-11T16:19:54.249774"
+  },
+  {
+    "story": "Shadrach Meshach and Abednego",
+    "scene": 8,
+    "prompt": "The king leaping up pointing into the furnace in shock",
+    "status": "success",
+    "files": [
+      "bible_400_images\\18_Shadrach_Meshach_and_Abednego\\18_Shadrach_Meshach_and_Abednego_scene08.png"
+    ],
+    "timestamp": "2026-04-11T16:20:00.605141"
+  },
+  {
+    "story": "Shadrach Meshach and Abednego",
+    "scene": 9,
+    "prompt": "Four figures walking freely inside the blazing fire unharmed",
+    "status": "success",
+    "files": [
+      "bible_400_images\\18_Shadrach_Meshach_and_Abednego\\18_Shadrach_Meshach_and_Abednego_scene09.png"
+    ],
+    "timestamp": "2026-04-11T16:20:06.333030"
+  },
+  {
+    "story": "Shadrach Meshach and Abednego",
+    "scene": 10,
+    "prompt": "The three men walking out of the furnace unharmed not even smelling of smoke",
+    "status": "success",
+    "files": [
+      "bible_400_images\\18_Shadrach_Meshach_and_Abednego\\18_Shadrach_Meshach_and_Abednego_scene10.png"
+    ],
+    "timestamp": "2026-04-11T16:20:11.862215"
+  },
+  {
+    "story": "Nehemiah Rebuilds the Wall",
+    "scene": 1,
+    "prompt": "Nehemiah serving as cupbearer to the king looking sad",
+    "status": "success",
+    "files": [
+      "bible_400_images\\19_Nehemiah_Rebuilds_the_Wall\\19_Nehemiah_Rebuilds_the_Wall_scene01.png"
+    ],
+    "timestamp": "2026-04-11T16:20:16.635933"
+  },
+  {
+    "story": "Nehemiah Rebuilds the Wall",
+    "scene": 2,
+    "prompt": "The king asking Nehemiah why he looks sad",
+    "status": "success",
+    "files": [
+      "bible_400_images\\19_Nehemiah_Rebuilds_the_Wall\\19_Nehemiah_Rebuilds_the_Wall_scene02.png"
+    ],
+    "timestamp": "2026-04-11T16:20:22.324442"
+  },
+  {
+    "story": "Nehemiah Rebuilds the Wall",
+    "scene": 3,
+    "prompt": "Nehemiah praying and then speaking bravely to the king",
+    "status": "success",
+    "files": [
+      "bible_400_images\\19_Nehemiah_Rebuilds_the_Wall\\19_Nehemiah_Rebuilds_the_Wall_scene03.png"
+    ],
+    "timestamp": "2026-04-11T16:20:26.909668"
+  },
+  {
+    "story": "Nehemiah Rebuilds the Wall",
+    "scene": 4,
+    "prompt": "The king granting Nehemiah permission to return to Jerusalem",
+    "status": "success",
+    "files": [
+      "bible_400_images\\19_Nehemiah_Rebuilds_the_Wall\\19_Nehemiah_Rebuilds_the_Wall_scene04.png"
+    ],
+    "timestamp": "2026-04-11T16:20:31.576945"
+  },
+  {
+    "story": "Nehemiah Rebuilds the Wall",
+    "scene": 5,
+    "prompt": "Nehemiah arriving in Jerusalem and secretly surveying the broken walls at night",
+    "status": "success",
+    "files": [
+      "bible_400_images\\19_Nehemiah_Rebuilds_the_Wall\\19_Nehemiah_Rebuilds_the_Wall_scene05.png"
+    ],
+    "timestamp": "2026-04-11T16:20:35.915296"
+  },
+  {
+    "story": "Nehemiah Rebuilds the Wall",
+    "scene": 6,
+    "prompt": "Nehemiah gathering the people and inspiring them to rebuild",
+    "status": "success",
+    "files": [
+      "bible_400_images\\19_Nehemiah_Rebuilds_the_Wall\\19_Nehemiah_Rebuilds_the_Wall_scene06.png"
+    ],
+    "timestamp": "2026-04-11T16:20:40.675838"
+  },
+  {
+    "story": "Nehemiah Rebuilds the Wall",
+    "scene": 7,
+    "prompt": "Teams of people working together rebuilding different sections of the wall",
+    "status": "success",
+    "files": [
+      "bible_400_images\\19_Nehemiah_Rebuilds_the_Wall\\19_Nehemiah_Rebuilds_the_Wall_scene07.png"
+    ],
+    "timestamp": "2026-04-11T16:20:45.645429"
+  },
+  {
+    "story": "Nehemiah Rebuilds the Wall",
+    "scene": 8,
+    "prompt": "Enemies mocking and threatening the builders trying to stop them",
+    "status": "success",
+    "files": [
+      "bible_400_images\\19_Nehemiah_Rebuilds_the_Wall\\19_Nehemiah_Rebuilds_the_Wall_scene08.png"
+    ],
+    "timestamp": "2026-04-11T16:20:50.614579"
+  },
+  {
+    "story": "Nehemiah Rebuilds the Wall",
+    "scene": 9,
+    "prompt": "Nehemiah organising half the people to build and half to stand guard",
+    "status": "success",
+    "files": [
+      "bible_400_images\\19_Nehemiah_Rebuilds_the_Wall\\19_Nehemiah_Rebuilds_the_Wall_scene09.png"
+    ],
+    "timestamp": "2026-04-11T16:20:55.559203"
+  },
+  {
+    "story": "Nehemiah Rebuilds the Wall",
+    "scene": 10,
+    "prompt": "The wall completed in 52 days people celebrating with great joy",
+    "status": "success",
+    "files": [
+      "bible_400_images\\19_Nehemiah_Rebuilds_the_Wall\\19_Nehemiah_Rebuilds_the_Wall_scene10.png"
+    ],
+    "timestamp": "2026-04-11T16:21:00.629262"
+  },
+  {
+    "story": "The Nativity - Jesus Is Born",
+    "scene": 1,
+    "prompt": "Mary and Joseph travelling on a dusty road Mary riding a donkey",
+    "status": "success",
+    "files": [
+      "bible_400_images\\20_The_Nativity_-_Jesus_Is_Born\\20_The_Nativity_-_Jesus_Is_Born_scene01.png"
+    ],
+    "timestamp": "2026-04-11T16:21:05.993116"
+  },
+  {
+    "story": "The Nativity - Jesus Is Born",
+    "scene": 2,
+    "prompt": "Mary and Joseph knocking on an inn door the innkeeper shaking his head",
+    "status": "success",
+    "files": [
+      "bible_400_images\\20_The_Nativity_-_Jesus_Is_Born\\20_The_Nativity_-_Jesus_Is_Born_scene02.png"
+    ],
+    "timestamp": "2026-04-11T16:21:12.417393"
+  },
+  {
+    "story": "The Nativity - Jesus Is Born",
+    "scene": 3,
+    "prompt": "Mary and Joseph finding a humble stable with animals",
+    "status": "success",
+    "files": [
+      "bible_400_images\\20_The_Nativity_-_Jesus_Is_Born\\20_The_Nativity_-_Jesus_Is_Born_scene03.png"
+    ],
+    "timestamp": "2026-04-11T16:21:17.992927"
+  },
+  {
+    "story": "The Nativity - Jesus Is Born",
+    "scene": 4,
+    "prompt": "Baby Jesus lying in a manger filled with hay glowing softly",
+    "status": "success",
+    "files": [
+      "bible_400_images\\20_The_Nativity_-_Jesus_Is_Born\\20_The_Nativity_-_Jesus_Is_Born_scene04.png"
+    ],
+    "timestamp": "2026-04-11T16:21:23.068828"
+  },
+  {
+    "story": "The Nativity - Jesus Is Born",
+    "scene": 5,
+    "prompt": "Mary and Joseph kneeling beside the manger looking at Jesus lovingly",
+    "status": "success",
+    "files": [
+      "bible_400_images\\20_The_Nativity_-_Jesus_Is_Born\\20_The_Nativity_-_Jesus_Is_Born_scene05.png"
+    ],
+    "timestamp": "2026-04-11T16:21:27.963707"
+  },
+  {
+    "story": "The Nativity - Jesus Is Born",
+    "scene": 6,
+    "prompt": "A brilliant star shining brightly in the night sky above the stable",
+    "status": "success",
+    "files": [
+      "bible_400_images\\20_The_Nativity_-_Jesus_Is_Born\\20_The_Nativity_-_Jesus_Is_Born_scene06.png"
+    ],
+    "timestamp": "2026-04-11T16:21:33.241104"
+  },
+  {
+    "story": "The Nativity - Jesus Is Born",
+    "scene": 7,
+    "prompt": "Angels appearing in the sky to shepherds in a field",
+    "status": "success",
+    "files": [
+      "bible_400_images\\20_The_Nativity_-_Jesus_Is_Born\\20_The_Nativity_-_Jesus_Is_Born_scene07.png"
+    ],
+    "timestamp": "2026-04-11T16:21:38.175254"
+  },
+  {
+    "story": "The Nativity - Jesus Is Born",
+    "scene": 8,
+    "prompt": "Shepherds running toward Bethlehem excitedly",
+    "status": "success",
+    "files": [
+      "bible_400_images\\20_The_Nativity_-_Jesus_Is_Born\\20_The_Nativity_-_Jesus_Is_Born_scene08.png"
+    ],
+    "timestamp": "2026-04-11T16:21:43.396754"
+  },
+  {
+    "story": "The Nativity - Jesus Is Born",
+    "scene": 9,
+    "prompt": "Shepherds kneeling before baby Jesus in the manger in wonder",
+    "status": "success",
+    "files": [
+      "bible_400_images\\20_The_Nativity_-_Jesus_Is_Born\\20_The_Nativity_-_Jesus_Is_Born_scene09.png"
+    ],
+    "timestamp": "2026-04-11T16:21:48.571260"
+  },
+  {
+    "story": "The Nativity - Jesus Is Born",
+    "scene": 10,
+    "prompt": "Wise men following the star carrying gifts of gold frankincense and myrrh",
+    "status": "success",
+    "files": [
+      "bible_400_images\\20_The_Nativity_-_Jesus_Is_Born\\20_The_Nativity_-_Jesus_Is_Born_scene10.png"
+    ],
+    "timestamp": "2026-04-11T16:21:53.632964"
+  },
+  {
+    "story": "The Boy Jesus in the Temple",
+    "scene": 1,
+    "prompt": "Young Jesus travelling with Mary Joseph and a large group to Jerusalem",
+    "status": "success",
+    "files": [
+      "bible_400_images\\21_The_Boy_Jesus_in_the_Temple\\21_The_Boy_Jesus_in_the_Temple_scene01.png"
+    ],
+    "timestamp": "2026-04-11T16:21:59.017711"
+  },
+  {
+    "story": "The Boy Jesus in the Temple",
+    "scene": 2,
+    "prompt": "The family entering the magnificent Jerusalem temple",
+    "status": "success",
+    "files": [
+      "bible_400_images\\21_The_Boy_Jesus_in_the_Temple\\21_The_Boy_Jesus_in_the_Temple_scene02.png"
+    ],
+    "timestamp": "2026-04-11T16:22:04.042871"
+  },
+  {
+    "story": "The Boy Jesus in the Temple",
+    "scene": 3,
+    "prompt": "Jesus sitting among teachers listening carefully and asking questions",
+    "status": "success",
+    "files": [
+      "bible_400_images\\21_The_Boy_Jesus_in_the_Temple\\21_The_Boy_Jesus_in_the_Temple_scene03.png"
+    ],
+    "timestamp": "2026-04-11T16:22:09.083228"
+  },
+  {
+    "story": "The Boy Jesus in the Temple",
+    "scene": 4,
+    "prompt": "Teachers looking amazed at Jesus's understanding and answers",
+    "status": "success",
+    "files": [
+      "bible_400_images\\21_The_Boy_Jesus_in_the_Temple\\21_The_Boy_Jesus_in_the_Temple_scene04.png"
+    ],
+    "timestamp": "2026-04-11T16:22:14.146950"
+  },
+  {
+    "story": "The Boy Jesus in the Temple",
+    "scene": 5,
+    "prompt": "Mary and Joseph searching the crowd looking worried unable to find Jesus",
+    "status": "success",
+    "files": [
+      "bible_400_images\\21_The_Boy_Jesus_in_the_Temple\\21_The_Boy_Jesus_in_the_Temple_scene05.png"
+    ],
+    "timestamp": "2026-04-11T16:22:19.249734"
+  },
+  {
+    "story": "The Boy Jesus in the Temple",
+    "scene": 6,
+    "prompt": "Mary and Joseph searching through the streets of Jerusalem",
+    "status": "success",
+    "files": [
+      "bible_400_images\\21_The_Boy_Jesus_in_the_Temple\\21_The_Boy_Jesus_in_the_Temple_scene06.png"
+    ],
+    "timestamp": "2026-04-11T16:22:24.488186"
+  },
+  {
+    "story": "The Boy Jesus in the Temple",
+    "scene": 7,
+    "prompt": "Mary and Joseph returning to the temple after three days",
+    "status": "success",
+    "files": [
+      "bible_400_images\\21_The_Boy_Jesus_in_the_Temple\\21_The_Boy_Jesus_in_the_Temple_scene07.png"
+    ],
+    "timestamp": "2026-04-11T16:22:29.622310"
+  },
+  {
+    "story": "The Boy Jesus in the Temple",
+    "scene": 8,
+    "prompt": "Mary and Joseph finding Jesus sitting calmly among the teachers",
+    "status": "success",
+    "files": [
+      "bible_400_images\\21_The_Boy_Jesus_in_the_Temple\\21_The_Boy_Jesus_in_the_Temple_scene08.png"
+    ],
+    "timestamp": "2026-04-11T16:22:35.197850"
+  },
+  {
+    "story": "The Boy Jesus in the Temple",
+    "scene": 9,
+    "prompt": "Mary hugging Jesus with relief asking why He stayed behind",
+    "status": "success",
+    "files": [
+      "bible_400_images\\21_The_Boy_Jesus_in_the_Temple\\21_The_Boy_Jesus_in_the_Temple_scene09.png"
+    ],
+    "timestamp": "2026-04-11T16:22:40.217333"
+  },
+  {
+    "story": "The Boy Jesus in the Temple",
+    "scene": 10,
+    "prompt": "Jesus walking home obediently with Mary and Joseph",
+    "status": "success",
+    "files": [
+      "bible_400_images\\21_The_Boy_Jesus_in_the_Temple\\21_The_Boy_Jesus_in_the_Temple_scene10.png"
+    ],
+    "timestamp": "2026-04-11T16:22:45.556463"
+  },
+  {
+    "story": "Jesus Is Baptised",
+    "scene": 1,
+    "prompt": "John the Baptist preaching beside the Jordan river to a large crowd",
+    "status": "success",
+    "files": [
+      "bible_400_images\\22_Jesus_Is_Baptised\\22_Jesus_Is_Baptised_scene01.png"
+    ],
+    "timestamp": "2026-04-11T16:22:50.731726"
+  },
+  {
+    "story": "Jesus Is Baptised",
+    "scene": 2,
+    "prompt": "People lining up to be baptised by John in the river",
+    "status": "success",
+    "files": [
+      "bible_400_images\\22_Jesus_Is_Baptised\\22_Jesus_Is_Baptised_scene02.png"
+    ],
+    "timestamp": "2026-04-11T16:22:55.615113"
+  },
+  {
+    "story": "Jesus Is Baptised",
+    "scene": 3,
+    "prompt": "Jesus arriving at the riverbank walking calmly toward John",
+    "status": "success",
+    "files": [
+      "bible_400_images\\22_Jesus_Is_Baptised\\22_Jesus_Is_Baptised_scene03.png"
+    ],
+    "timestamp": "2026-04-11T16:23:00.715620"
+  },
+  {
+    "story": "Jesus Is Baptised",
+    "scene": 4,
+    "prompt": "John looking surprised and saying Jesus should baptise him instead",
+    "status": "success",
+    "files": [
+      "bible_400_images\\22_Jesus_Is_Baptised\\22_Jesus_Is_Baptised_scene04.png"
+    ],
+    "timestamp": "2026-04-11T16:23:05.576543"
+  },
+  {
+    "story": "Jesus Is Baptised",
+    "scene": 5,
+    "prompt": "Jesus stepping into the river with John",
+    "status": "success",
+    "files": [
+      "bible_400_images\\22_Jesus_Is_Baptised\\22_Jesus_Is_Baptised_scene05.png"
+    ],
+    "timestamp": "2026-04-11T16:23:10.702349"
+  },
+  {
+    "story": "Jesus Is Baptised",
+    "scene": 6,
+    "prompt": "John baptising Jesus in the Jordan river",
+    "status": "success",
+    "files": [
+      "bible_400_images\\22_Jesus_Is_Baptised\\22_Jesus_Is_Baptised_scene06.png"
+    ],
+    "timestamp": "2026-04-11T16:23:15.835248"
+  },
+  {
+    "story": "Jesus Is Baptised",
+    "scene": 7,
+    "prompt": "Jesus coming up out of the water with eyes open looking upward",
+    "status": "success",
+    "files": [
+      "bible_400_images\\22_Jesus_Is_Baptised\\22_Jesus_Is_Baptised_scene07.png"
+    ],
+    "timestamp": "2026-04-11T16:23:20.790065"
+  },
+  {
+    "story": "Jesus Is Baptised",
+    "scene": 8,
+    "prompt": "The sky opening up with brilliant light pouring down",
+    "status": "success",
+    "files": [
+      "bible_400_images\\22_Jesus_Is_Baptised\\22_Jesus_Is_Baptised_scene08.png"
+    ],
+    "timestamp": "2026-04-11T16:23:27.271752"
+  },
+  {
+    "story": "Jesus Is Baptised",
+    "scene": 9,
+    "prompt": "A dove descending gently from heaven toward Jesus",
+    "status": "success",
+    "files": [
+      "bible_400_images\\22_Jesus_Is_Baptised\\22_Jesus_Is_Baptised_scene09.png"
+    ],
+    "timestamp": "2026-04-11T16:23:32.331758"
+  },
+  {
+    "story": "Jesus Is Baptised",
+    "scene": 10,
+    "prompt": "A voice from heaven and crowds watching in awe",
+    "status": "success",
+    "files": [
+      "bible_400_images\\22_Jesus_Is_Baptised\\22_Jesus_Is_Baptised_scene10.png"
+    ],
+    "timestamp": "2026-04-11T16:23:37.535513"
+  },
+  {
+    "story": "Jesus Calls His Disciples",
+    "scene": 1,
+    "prompt": "Jesus walking along the shore of the Sea of Galilee",
+    "status": "error",
+    "error": "HTTPSConnectionPool(host='v3b.fal.media', port=443): Read timed out. (read timeout=60)",
+    "timestamp": "2026-04-11T16:24:42.330927"
+  },
+  {
+    "story": "Jesus Calls His Disciples",
+    "scene": 2,
+    "prompt": "Peter and Andrew casting their fishing nets into the water",
+    "status": "success",
+    "files": [
+      "bible_400_images\\23_Jesus_Calls_His_Disciples\\23_Jesus_Calls_His_Disciples_scene02.png"
+    ],
+    "timestamp": "2026-04-11T16:24:47.161359"
+  },
+  {
+    "story": "Jesus Calls His Disciples",
+    "scene": 3,
+    "prompt": "Jesus calling out to Peter and Andrew follow me",
+    "status": "success",
+    "files": [
+      "bible_400_images\\23_Jesus_Calls_His_Disciples\\23_Jesus_Calls_His_Disciples_scene03.png"
+    ],
+    "timestamp": "2026-04-11T16:24:52.198262"
+  },
+  {
+    "story": "Jesus Calls His Disciples",
+    "scene": 4,
+    "prompt": "Peter and Andrew immediately dropping their nets and turning toward Jesus",
+    "status": "success",
+    "files": [
+      "bible_400_images\\23_Jesus_Calls_His_Disciples\\23_Jesus_Calls_His_Disciples_scene04.png"
+    ],
+    "timestamp": "2026-04-11T16:24:57.281204"
+  },
+  {
+    "story": "Jesus Calls His Disciples",
+    "scene": 5,
+    "prompt": "Jesus and the two brothers walking along the shore together",
+    "status": "success",
+    "files": [
+      "bible_400_images\\23_Jesus_Calls_His_Disciples\\23_Jesus_Calls_His_Disciples_scene05.png"
+    ],
+    "timestamp": "2026-04-11T16:25:02.197634"
+  },
+  {
+    "story": "Jesus Calls His Disciples",
+    "scene": 6,
+    "prompt": "Jesus seeing James and John in a boat with their father mending nets",
+    "status": "success",
+    "files": [
+      "bible_400_images\\23_Jesus_Calls_His_Disciples\\23_Jesus_Calls_His_Disciples_scene06.png"
+    ],
+    "timestamp": "2026-04-11T16:25:07.030150"
+  },
+  {
+    "story": "Jesus Calls His Disciples",
+    "scene": 7,
+    "prompt": "Jesus calling James and John who immediately leave the boat",
+    "status": "success",
+    "files": [
+      "bible_400_images\\23_Jesus_Calls_His_Disciples\\23_Jesus_Calls_His_Disciples_scene07.png"
+    ],
+    "timestamp": "2026-04-11T16:25:12.136199"
+  },
+  {
+    "story": "Jesus Calls His Disciples",
+    "scene": 8,
+    "prompt": "A group of twelve men of different backgrounds following Jesus",
+    "status": "success",
+    "files": [
+      "bible_400_images\\23_Jesus_Calls_His_Disciples\\23_Jesus_Calls_His_Disciples_scene08.png"
+    ],
+    "timestamp": "2026-04-11T16:25:17.300599"
+  },
+  {
+    "story": "Jesus Calls His Disciples",
+    "scene": 9,
+    "prompt": "Jesus teaching his disciples on a hillside",
+    "status": "success",
+    "files": [
+      "bible_400_images\\23_Jesus_Calls_His_Disciples\\23_Jesus_Calls_His_Disciples_scene09.png"
+    ],
+    "timestamp": "2026-04-11T16:25:22.141335"
+  },
+  {
+    "story": "Jesus Calls His Disciples",
+    "scene": 10,
+    "prompt": "The disciples listening with wonder and excitement learning from Jesus",
+    "status": "success",
+    "files": [
+      "bible_400_images\\23_Jesus_Calls_His_Disciples\\23_Jesus_Calls_His_Disciples_scene10.png"
+    ],
+    "timestamp": "2026-04-11T16:25:26.937796"
+  },
+  {
+    "story": "Jesus Heals the Blind Man",
+    "scene": 1,
+    "prompt": "A blind man sitting by the roadside begging with a cup",
+    "status": "success",
+    "files": [
+      "bible_400_images\\24_Jesus_Heals_the_Blind_Man\\24_Jesus_Heals_the_Blind_Man_scene01.png"
+    ],
+    "timestamp": "2026-04-11T16:25:31.857909"
+  },
+  {
+    "story": "Jesus Heals the Blind Man",
+    "scene": 2,
+    "prompt": "Crowds walking past the blind man ignoring him",
+    "status": "success",
+    "files": [
+      "bible_400_images\\24_Jesus_Heals_the_Blind_Man\\24_Jesus_Heals_the_Blind_Man_scene02.png"
+    ],
+    "timestamp": "2026-04-11T16:25:37.045095"
+  },
+  {
+    "story": "Jesus Heals the Blind Man",
+    "scene": 3,
+    "prompt": "Jesus walking toward the blind man with his disciples",
+    "status": "success",
+    "files": [
+      "bible_400_images\\24_Jesus_Heals_the_Blind_Man\\24_Jesus_Heals_the_Blind_Man_scene03.png"
+    ],
+    "timestamp": "2026-04-11T16:25:42.100210"
+  },
+  {
+    "story": "Jesus Heals the Blind Man",
+    "scene": 4,
+    "prompt": "Disciples asking Jesus why the man was blind",
+    "status": "success",
+    "files": [
+      "bible_400_images\\24_Jesus_Heals_the_Blind_Man\\24_Jesus_Heals_the_Blind_Man_scene04.png"
+    ],
+    "timestamp": "2026-04-11T16:25:47.097754"
+  },
+  {
+    "story": "Jesus Heals the Blind Man",
+    "scene": 5,
+    "prompt": "Jesus kneeling down to the man's level speaking kindly",
+    "status": "success",
+    "files": [
+      "bible_400_images\\24_Jesus_Heals_the_Blind_Man\\24_Jesus_Heals_the_Blind_Man_scene05.png"
+    ],
+    "timestamp": "2026-04-11T16:25:51.960842"
+  },
+  {
+    "story": "Jesus Heals the Blind Man",
+    "scene": 6,
+    "prompt": "Jesus making mud with dirt and touching the man's eyes gently",
+    "status": "success",
+    "files": [
+      "bible_400_images\\24_Jesus_Heals_the_Blind_Man\\24_Jesus_Heals_the_Blind_Man_scene06.png"
+    ],
+    "timestamp": "2026-04-11T16:25:57.006565"
+  },
+  {
+    "story": "Jesus Heals the Blind Man",
+    "scene": 7,
+    "prompt": "Jesus telling the man to wash in the Pool of Siloam",
+    "status": "success",
+    "files": [
+      "bible_400_images\\24_Jesus_Heals_the_Blind_Man\\24_Jesus_Heals_the_Blind_Man_scene07.png"
+    ],
+    "timestamp": "2026-04-11T16:26:02.333256"
+  },
+  {
+    "story": "Jesus Heals the Blind Man",
+    "scene": 8,
+    "prompt": "The man washing his face in the pool water",
+    "status": "success",
+    "files": [
+      "bible_400_images\\24_Jesus_Heals_the_Blind_Man\\24_Jesus_Heals_the_Blind_Man_scene08.png"
+    ],
+    "timestamp": "2026-04-11T16:26:07.747524"
+  },
+  {
+    "story": "Jesus Heals the Blind Man",
+    "scene": 9,
+    "prompt": "The man opening his eyes wide seeing for the first time",
+    "status": "success",
+    "files": [
+      "bible_400_images\\24_Jesus_Heals_the_Blind_Man\\24_Jesus_Heals_the_Blind_Man_scene09.png"
+    ],
+    "timestamp": "2026-04-11T16:26:13.150879"
+  },
+  {
+    "story": "Jesus Heals the Blind Man",
+    "scene": 10,
+    "prompt": "The man running back to find Jesus and people celebrating around him",
+    "status": "success",
+    "files": [
+      "bible_400_images\\24_Jesus_Heals_the_Blind_Man\\24_Jesus_Heals_the_Blind_Man_scene10.png"
+    ],
+    "timestamp": "2026-04-11T16:26:18.414997"
+  },
+  {
+    "story": "Jesus Calms the Storm",
+    "scene": 1,
+    "prompt": "Jesus and disciples getting into a boat on calm water at evening",
+    "status": "success",
+    "files": [
+      "bible_400_images\\25_Jesus_Calms_the_Storm\\25_Jesus_Calms_the_Storm_scene01.png"
+    ],
+    "timestamp": "2026-04-11T16:26:23.615634"
+  },
+  {
+    "story": "Jesus Calms the Storm",
+    "scene": 2,
+    "prompt": "Jesus lying down in the back of the boat falling asleep peacefully",
+    "status": "success",
+    "files": [
+      "bible_400_images\\25_Jesus_Calms_the_Storm\\25_Jesus_Calms_the_Storm_scene02.png"
+    ],
+    "timestamp": "2026-04-11T16:26:28.472394"
+  },
+  {
+    "story": "Jesus Calms the Storm",
+    "scene": 3,
+    "prompt": "Dark storm clouds gathering quickly over the sea",
+    "status": "success",
+    "files": [
+      "bible_400_images\\25_Jesus_Calms_the_Storm\\25_Jesus_Calms_the_Storm_scene03.png"
+    ],
+    "timestamp": "2026-04-11T16:26:33.426415"
+  },
+  {
+    "story": "Jesus Calms the Storm",
+    "scene": 4,
+    "prompt": "Huge waves crashing over the boat the disciples gripping the sides",
+    "status": "success",
+    "files": [
+      "bible_400_images\\25_Jesus_Calms_the_Storm\\25_Jesus_Calms_the_Storm_scene04.png"
+    ],
+    "timestamp": "2026-04-11T16:26:38.570464"
+  },
+  {
+    "story": "Jesus Calms the Storm",
+    "scene": 5,
+    "prompt": "Disciples panicking bailing water from the boat in the storm",
+    "status": "success",
+    "files": [
+      "bible_400_images\\25_Jesus_Calms_the_Storm\\25_Jesus_Calms_the_Storm_scene05.png"
+    ],
+    "timestamp": "2026-04-11T16:26:43.489138"
+  },
+  {
+    "story": "Jesus Calms the Storm",
+    "scene": 6,
+    "prompt": "Disciples shaking Jesus awake in fear shouting we will drown",
+    "status": "success",
+    "files": [
+      "bible_400_images\\25_Jesus_Calms_the_Storm\\25_Jesus_Calms_the_Storm_scene06.png"
+    ],
+    "timestamp": "2026-04-11T16:26:48.612762"
+  },
+  {
+    "story": "Jesus Calms the Storm",
+    "scene": 7,
+    "prompt": "Jesus standing up calmly in the boat amid the raging storm",
+    "status": "success",
+    "files": [
+      "bible_400_images\\25_Jesus_Calms_the_Storm\\25_Jesus_Calms_the_Storm_scene07.png"
+    ],
+    "timestamp": "2026-04-11T16:26:53.948487"
+  },
+  {
+    "story": "Jesus Calms the Storm",
+    "scene": 8,
+    "prompt": "Jesus stretching out His hand commanding peace be still",
+    "status": "success",
+    "files": [
+      "bible_400_images\\25_Jesus_Calms_the_Storm\\25_Jesus_Calms_the_Storm_scene08.png"
+    ],
+    "timestamp": "2026-04-11T16:26:58.931661"
+  },
+  {
+    "story": "Jesus Calms the Storm",
+    "scene": 9,
+    "prompt": "The storm instantly stopping the sea becoming perfectly calm",
+    "status": "success",
+    "files": [
+      "bible_400_images\\25_Jesus_Calms_the_Storm\\25_Jesus_Calms_the_Storm_scene09.png"
+    ],
+    "timestamp": "2026-04-11T16:27:04.071345"
+  },
+  {
+    "story": "Jesus Calms the Storm",
+    "scene": 10,
+    "prompt": "Disciples looking at each other amazed asking who is this man",
+    "status": "success",
+    "files": [
+      "bible_400_images\\25_Jesus_Calms_the_Storm\\25_Jesus_Calms_the_Storm_scene10.png"
+    ],
+    "timestamp": "2026-04-11T16:27:09.067868"
+  },
+  {
+    "story": "The Lost Sheep",
+    "scene": 1,
+    "prompt": "A shepherd happily tending a flock of one hundred sheep on green hills",
+    "status": "success",
+    "files": [
+      "bible_400_images\\26_The_Lost_Sheep\\26_The_Lost_Sheep_scene01.png"
+    ],
+    "timestamp": "2026-04-11T16:27:13.921499"
+  },
+  {
+    "story": "The Lost Sheep",
+    "scene": 2,
+    "prompt": "The shepherd counting the sheep one by one",
+    "status": "success",
+    "files": [
+      "bible_400_images\\26_The_Lost_Sheep\\26_The_Lost_Sheep_scene02.png"
+    ],
+    "timestamp": "2026-04-11T16:27:18.897609"
+  },
+  {
+    "story": "The Lost Sheep",
+    "scene": 3,
+    "prompt": "The shepherd noticing one sheep is missing looking worried",
+    "status": "success",
+    "files": [
+      "bible_400_images\\26_The_Lost_Sheep\\26_The_Lost_Sheep_scene03.png"
+    ],
+    "timestamp": "2026-04-11T16:27:23.790477"
+  },
+  {
+    "story": "The Lost Sheep",
+    "scene": 4,
+    "prompt": "The shepherd leaving the ninety-nine sheep safely on the hillside",
+    "status": "success",
+    "files": [
+      "bible_400_images\\26_The_Lost_Sheep\\26_The_Lost_Sheep_scene04.png"
+    ],
+    "timestamp": "2026-04-11T16:27:28.790917"
+  },
+  {
+    "story": "The Lost Sheep",
+    "scene": 5,
+    "prompt": "The shepherd searching through rocky hills and valleys calling out",
+    "status": "success",
+    "files": [
+      "bible_400_images\\26_The_Lost_Sheep\\26_The_Lost_Sheep_scene05.png"
+    ],
+    "timestamp": "2026-04-11T16:27:34.063375"
+  },
+  {
+    "story": "The Lost Sheep",
+    "scene": 6,
+    "prompt": "The shepherd looking behind large boulders and in bushes",
+    "status": "success",
+    "files": [
+      "bible_400_images\\26_The_Lost_Sheep\\26_The_Lost_Sheep_scene06.png"
+    ],
+    "timestamp": "2026-04-11T16:27:39.099338"
+  },
+  {
+    "story": "The Lost Sheep",
+    "scene": 7,
+    "prompt": "The shepherd hearing a faint bleating sound from far off",
+    "status": "success",
+    "files": [
+      "bible_400_images\\26_The_Lost_Sheep\\26_The_Lost_Sheep_scene07.png"
+    ],
+    "timestamp": "2026-04-11T16:27:44.229310"
+  },
+  {
+    "story": "The Lost Sheep",
+    "scene": 8,
+    "prompt": "The shepherd finding the lost sheep stuck in thorny bushes",
+    "status": "success",
+    "files": [
+      "bible_400_images\\26_The_Lost_Sheep\\26_The_Lost_Sheep_scene08.png"
+    ],
+    "timestamp": "2026-04-11T16:27:49.522310"
+  },
+  {
+    "story": "The Lost Sheep",
+    "scene": 9,
+    "prompt": "The shepherd lifting the lost sheep joyfully onto his shoulders",
+    "status": "success",
+    "files": [
+      "bible_400_images\\26_The_Lost_Sheep\\26_The_Lost_Sheep_scene09.png"
+    ],
+    "timestamp": "2026-04-11T16:27:54.329232"
+  },
+  {
+    "story": "The Lost Sheep",
+    "scene": 10,
+    "prompt": "The shepherd returning home with the sheep neighbours celebrating",
+    "status": "success",
+    "files": [
+      "bible_400_images\\26_The_Lost_Sheep\\26_The_Lost_Sheep_scene10.png"
+    ],
+    "timestamp": "2026-04-11T16:27:59.388478"
+  },
+  {
+    "story": "Zacchaeus the Tax Collector",
+    "scene": 1,
+    "prompt": "Zacchaeus a short man in fine rich clothes counting money at his table",
+    "status": "success",
+    "files": [
+      "bible_400_images\\27_Zacchaeus_the_Tax_Collector\\27_Zacchaeus_the_Tax_Collector_scene01.png"
+    ],
+    "timestamp": "2026-04-11T16:28:04.379173"
+  },
+  {
+    "story": "Zacchaeus the Tax Collector",
+    "scene": 2,
+    "prompt": "A large excited crowd filling the streets of Jericho",
+    "status": "success",
+    "files": [
+      "bible_400_images\\27_Zacchaeus_the_Tax_Collector\\27_Zacchaeus_the_Tax_Collector_scene02.png"
+    ],
+    "timestamp": "2026-04-11T16:28:09.737586"
+  },
+  {
+    "story": "Zacchaeus the Tax Collector",
+    "scene": 3,
+    "prompt": "Zacchaeus trying to see through the tall crowd standing on tiptoes",
+    "status": "error",
+    "error": "HTTPSConnectionPool(host='v3b.fal.media', port=443): Read timed out. (read timeout=60)",
+    "timestamp": "2026-04-11T16:29:14.386395"
+  },
+  {
+    "story": "Zacchaeus the Tax Collector",
+    "scene": 4,
+    "prompt": "Zacchaeus running ahead of the crowd",
+    "status": "success",
+    "files": [
+      "bible_400_images\\27_Zacchaeus_the_Tax_Collector\\27_Zacchaeus_the_Tax_Collector_scene04.png"
+    ],
+    "timestamp": "2026-04-11T16:29:19.554404"
+  },
+  {
+    "story": "Zacchaeus the Tax Collector",
+    "scene": 5,
+    "prompt": "Zacchaeus climbing up a sycamore tree to see above the crowd",
+    "status": "success",
+    "files": [
+      "bible_400_images\\27_Zacchaeus_the_Tax_Collector\\27_Zacchaeus_the_Tax_Collector_scene05.png"
+    ],
+    "timestamp": "2026-04-11T16:29:25.189731"
+  },
+  {
+    "story": "Zacchaeus the Tax Collector",
+    "scene": 6,
+    "prompt": "Zacchaeus sitting in the tree looking down at the approaching crowd",
+    "status": "success",
+    "files": [
+      "bible_400_images\\27_Zacchaeus_the_Tax_Collector\\27_Zacchaeus_the_Tax_Collector_scene06.png"
+    ],
+    "timestamp": "2026-04-11T16:29:30.409622"
+  },
+  {
+    "story": "Zacchaeus the Tax Collector",
+    "scene": 7,
+    "prompt": "Jesus stopping under the tree and looking up at Zacchaeus smiling",
+    "status": "success",
+    "files": [
+      "bible_400_images\\27_Zacchaeus_the_Tax_Collector\\27_Zacchaeus_the_Tax_Collector_scene07.png"
+    ],
+    "timestamp": "2026-04-11T16:29:35.618341"
+  },
+  {
+    "story": "Zacchaeus the Tax Collector",
+    "scene": 8,
+    "prompt": "Jesus calling up to Zacchaeus come down I must stay at your house",
+    "status": "success",
+    "files": [
+      "bible_400_images\\27_Zacchaeus_the_Tax_Collector\\27_Zacchaeus_the_Tax_Collector_scene08.png"
+    ],
+    "timestamp": "2026-04-11T16:29:40.742240"
+  },
+  {
+    "story": "Zacchaeus the Tax Collector",
+    "scene": 9,
+    "prompt": "Zacchaeus sliding down the tree quickly with a huge smile",
+    "status": "success",
+    "files": [
+      "bible_400_images\\27_Zacchaeus_the_Tax_Collector\\27_Zacchaeus_the_Tax_Collector_scene09.png"
+    ],
+    "timestamp": "2026-04-11T16:29:45.916904"
+  },
+  {
+    "story": "Zacchaeus the Tax Collector",
+    "scene": 10,
+    "prompt": "Zacchaeus standing before Jesus promising to give back all he stole",
+    "status": "success",
+    "files": [
+      "bible_400_images\\27_Zacchaeus_the_Tax_Collector\\27_Zacchaeus_the_Tax_Collector_scene10.png"
+    ],
+    "timestamp": "2026-04-11T16:29:50.783814"
+  },
+  {
+    "story": "The Transfiguration",
+    "scene": 1,
+    "prompt": "Jesus leading Peter James and John up a high mountain",
+    "status": "success",
+    "files": [
+      "bible_400_images\\28_The_Transfiguration\\28_The_Transfiguration_scene01.png"
+    ],
+    "timestamp": "2026-04-11T16:29:55.716244"
+  },
+  {
+    "story": "The Transfiguration",
+    "scene": 2,
+    "prompt": "The four arriving at the mountain top above the clouds",
+    "status": "success",
+    "files": [
+      "bible_400_images\\28_The_Transfiguration\\28_The_Transfiguration_scene02.png"
+    ],
+    "timestamp": "2026-04-11T16:30:00.727960"
+  },
+  {
+    "story": "The Transfiguration",
+    "scene": 3,
+    "prompt": "Jesus beginning to glow with a brilliant white light",
+    "status": "success",
+    "files": [
+      "bible_400_images\\28_The_Transfiguration\\28_The_Transfiguration_scene03.png"
+    ],
+    "timestamp": "2026-04-11T16:30:05.915127"
+  },
+  {
+    "story": "The Transfiguration",
+    "scene": 4,
+    "prompt": "Jesus's face shining like the sun His clothes dazzling white",
+    "status": "success",
+    "files": [
+      "bible_400_images\\28_The_Transfiguration\\28_The_Transfiguration_scene04.png"
+    ],
+    "timestamp": "2026-04-11T16:30:11.471631"
+  },
+  {
+    "story": "The Transfiguration",
+    "scene": 5,
+    "prompt": "Two glowing figures Moses and Elijah appearing beside Jesus",
+    "status": "success",
+    "files": [
+      "bible_400_images\\28_The_Transfiguration\\28_The_Transfiguration_scene05.png"
+    ],
+    "timestamp": "2026-04-11T16:30:16.565295"
+  },
+  {
+    "story": "The Transfiguration",
+    "scene": 6,
+    "prompt": "Peter James and John falling to the ground overwhelmed",
+    "status": "success",
+    "files": [
+      "bible_400_images\\28_The_Transfiguration\\28_The_Transfiguration_scene06.png"
+    ],
+    "timestamp": "2026-04-11T16:30:21.796815"
+  },
+  {
+    "story": "The Transfiguration",
+    "scene": 7,
+    "prompt": "Peter excitedly suggesting they build three shelters",
+    "status": "success",
+    "files": [
+      "bible_400_images\\28_The_Transfiguration\\28_The_Transfiguration_scene07.png"
+    ],
+    "timestamp": "2026-04-11T16:30:27.016296"
+  },
+  {
+    "story": "The Transfiguration",
+    "scene": 8,
+    "prompt": "A bright cloud covering them all on the mountain",
+    "status": "success",
+    "files": [
+      "bible_400_images\\28_The_Transfiguration\\28_The_Transfiguration_scene08.png"
+    ],
+    "timestamp": "2026-04-11T16:30:32.287184"
+  },
+  {
+    "story": "The Transfiguration",
+    "scene": 9,
+    "prompt": "A voice from the cloud this is my Son listen to Him",
+    "status": "success",
+    "files": [
+      "bible_400_images\\28_The_Transfiguration\\28_The_Transfiguration_scene09.png"
+    ],
+    "timestamp": "2026-04-11T16:30:37.739005"
+  },
+  {
+    "story": "The Transfiguration",
+    "scene": 10,
+    "prompt": "The disciples looking up to see only Jesus who helps them up",
+    "status": "success",
+    "files": [
+      "bible_400_images\\28_The_Transfiguration\\28_The_Transfiguration_scene10.png"
+    ],
+    "timestamp": "2026-04-11T16:30:43.301863"
+  },
+  {
+    "story": "Jesus Raises Lazarus",
+    "scene": 1,
+    "prompt": "Mary and Martha sending a messenger to Jesus with urgent news",
+    "status": "success",
+    "files": [
+      "bible_400_images\\29_Jesus_Raises_Lazarus\\29_Jesus_Raises_Lazarus_scene01.png"
+    ],
+    "timestamp": "2026-04-11T16:30:48.454736"
+  },
+  {
+    "story": "Jesus Raises Lazarus",
+    "scene": 2,
+    "prompt": "Jesus hearing the news calmly telling his disciples Lazarus will be okay",
+    "status": "success",
+    "files": [
+      "bible_400_images\\29_Jesus_Raises_Lazarus\\29_Jesus_Raises_Lazarus_scene02.png"
+    ],
+    "timestamp": "2026-04-11T16:30:54.063482"
+  },
+  {
+    "story": "Jesus Raises Lazarus",
+    "scene": 3,
+    "prompt": "Jesus arriving at the village four days later",
+    "status": "success",
+    "files": [
+      "bible_400_images\\29_Jesus_Raises_Lazarus\\29_Jesus_Raises_Lazarus_scene03.png"
+    ],
+    "timestamp": "2026-04-11T16:30:59.542486"
+  },
+  {
+    "story": "Jesus Raises Lazarus",
+    "scene": 4,
+    "prompt": "Martha running to meet Jesus saying if only you had been here",
+    "status": "success",
+    "files": [
+      "bible_400_images\\29_Jesus_Raises_Lazarus\\29_Jesus_Raises_Lazarus_scene04.png"
+    ],
+    "timestamp": "2026-04-11T16:31:04.957460"
+  },
+  {
+    "story": "Jesus Raises Lazarus",
+    "scene": 5,
+    "prompt": "Jesus speaking gently to Martha I am the resurrection and the life",
+    "status": "success",
+    "files": [
+      "bible_400_images\\29_Jesus_Raises_Lazarus\\29_Jesus_Raises_Lazarus_scene05.png"
+    ],
+    "timestamp": "2026-04-11T16:31:10.105827"
+  },
+  {
+    "story": "Jesus Raises Lazarus",
+    "scene": 6,
+    "prompt": "Mary falling at Jesus's feet weeping",
+    "status": "success",
+    "files": [
+      "bible_400_images\\29_Jesus_Raises_Lazarus\\29_Jesus_Raises_Lazarus_scene06.png"
+    ],
+    "timestamp": "2026-04-11T16:31:15.469041"
+  },
+  {
+    "story": "Jesus Raises Lazarus",
+    "scene": 7,
+    "prompt": "Jesus being led to the tomb and weeping with the people",
+    "status": "success",
+    "files": [
+      "bible_400_images\\29_Jesus_Raises_Lazarus\\29_Jesus_Raises_Lazarus_scene07.png"
+    ],
+    "timestamp": "2026-04-11T16:31:20.741348"
+  },
+  {
+    "story": "Jesus Raises Lazarus",
+    "scene": 8,
+    "prompt": "Jesus standing before the tomb commanding roll the stone away",
+    "status": "success",
+    "files": [
+      "bible_400_images\\29_Jesus_Raises_Lazarus\\29_Jesus_Raises_Lazarus_scene08.png"
+    ],
+    "timestamp": "2026-04-11T16:31:26.236975"
+  },
+  {
+    "story": "Jesus Raises Lazarus",
+    "scene": 9,
+    "prompt": "Jesus praying to God with eyes raised to heaven",
+    "status": "success",
+    "files": [
+      "bible_400_images\\29_Jesus_Raises_Lazarus\\29_Jesus_Raises_Lazarus_scene09.png"
+    ],
+    "timestamp": "2026-04-11T16:31:31.613870"
+  },
+  {
+    "story": "Jesus Raises Lazarus",
+    "scene": 10,
+    "prompt": "Lazarus walking out of the tomb wrapped in cloths crowds gasping",
+    "status": "success",
+    "files": [
+      "bible_400_images\\29_Jesus_Raises_Lazarus\\29_Jesus_Raises_Lazarus_scene10.png"
+    ],
+    "timestamp": "2026-04-11T16:31:37.032299"
+  },
+  {
+    "story": "Palm Sunday - Jesus Enters Jerusalem",
+    "scene": 1,
+    "prompt": "Jesus sending two disciples ahead to find a donkey",
+    "status": "success",
+    "files": [
+      "bible_400_images\\30_Palm_Sunday_-_Jesus_Enters_Jer\\30_Palm_Sunday_-_Jesus_Enters_Jer_scene01.png"
+    ],
+    "timestamp": "2026-04-11T16:31:42.414270"
+  },
+  {
+    "story": "Palm Sunday - Jesus Enters Jerusalem",
+    "scene": 2,
+    "prompt": "Disciples finding the donkey and bringing it to Jesus",
+    "status": "success",
+    "files": [
+      "bible_400_images\\30_Palm_Sunday_-_Jesus_Enters_Jer\\30_Palm_Sunday_-_Jesus_Enters_Jer_scene02.png"
+    ],
+    "timestamp": "2026-04-11T16:31:47.899566"
+  },
+  {
+    "story": "Palm Sunday - Jesus Enters Jerusalem",
+    "scene": 3,
+    "prompt": "Jesus sitting on the donkey beginning the ride toward Jerusalem",
+    "status": "success",
+    "files": [
+      "bible_400_images\\30_Palm_Sunday_-_Jesus_Enters_Jer\\30_Palm_Sunday_-_Jesus_Enters_Jer_scene03.png"
+    ],
+    "timestamp": "2026-04-11T16:31:53.280237"
+  },
+  {
+    "story": "Palm Sunday - Jesus Enters Jerusalem",
+    "scene": 4,
+    "prompt": "People spreading their cloaks on the road before Jesus",
+    "status": "success",
+    "files": [
+      "bible_400_images\\30_Palm_Sunday_-_Jesus_Enters_Jer\\30_Palm_Sunday_-_Jesus_Enters_Jer_scene04.png"
+    ],
+    "timestamp": "2026-04-11T16:31:58.630306"
+  },
+  {
+    "story": "Palm Sunday - Jesus Enters Jerusalem",
+    "scene": 5,
+    "prompt": "Children and adults cutting palm branches from trees",
+    "status": "success",
+    "files": [
+      "bible_400_images\\30_Palm_Sunday_-_Jesus_Enters_Jer\\30_Palm_Sunday_-_Jesus_Enters_Jer_scene05.png"
+    ],
+    "timestamp": "2026-04-11T16:32:04.130338"
+  },
+  {
+    "story": "Palm Sunday - Jesus Enters Jerusalem",
+    "scene": 6,
+    "prompt": "Crowds waving palm branches and cheering joyfully",
+    "status": "success",
+    "files": [
+      "bible_400_images\\30_Palm_Sunday_-_Jesus_Enters_Jer\\30_Palm_Sunday_-_Jesus_Enters_Jer_scene06.png"
+    ],
+    "timestamp": "2026-04-11T16:32:09.632653"
+  },
+  {
+    "story": "Palm Sunday - Jesus Enters Jerusalem",
+    "scene": 7,
+    "prompt": "People shouting hosanna blessed is the king",
+    "status": "success",
+    "files": [
+      "bible_400_images\\30_Palm_Sunday_-_Jesus_Enters_Jer\\30_Palm_Sunday_-_Jesus_Enters_Jer_scene07.png"
+    ],
+    "timestamp": "2026-04-11T16:32:15.110834"
+  },
+  {
+    "story": "Palm Sunday - Jesus Enters Jerusalem",
+    "scene": 8,
+    "prompt": "Religious leaders in the crowd looking unhappy and worried",
+    "status": "success",
+    "files": [
+      "bible_400_images\\30_Palm_Sunday_-_Jesus_Enters_Jer\\30_Palm_Sunday_-_Jesus_Enters_Jer_scene08.png"
+    ],
+    "timestamp": "2026-04-11T16:32:20.503122"
+  },
+  {
+    "story": "Palm Sunday - Jesus Enters Jerusalem",
+    "scene": 9,
+    "prompt": "Jesus looking over Jerusalem with tears in His eyes",
+    "status": "success",
+    "files": [
+      "bible_400_images\\30_Palm_Sunday_-_Jesus_Enters_Jer\\30_Palm_Sunday_-_Jesus_Enters_Jer_scene09.png"
+    ],
+    "timestamp": "2026-04-11T16:32:25.766998"
+  },
+  {
+    "story": "Palm Sunday - Jesus Enters Jerusalem",
+    "scene": 10,
+    "prompt": "Jesus entering the city gates as the whole city celebrates",
+    "status": "success",
+    "files": [
+      "bible_400_images\\30_Palm_Sunday_-_Jesus_Enters_Jer\\30_Palm_Sunday_-_Jesus_Enters_Jer_scene10.png"
+    ],
+    "timestamp": "2026-04-11T16:32:31.056605"
+  },
+  {
+    "story": "The Last Supper",
+    "scene": 1,
+    "prompt": "Jesus and twelve disciples entering an upper room for dinner",
+    "status": "success",
+    "files": [
+      "bible_400_images\\31_The_Last_Supper\\31_The_Last_Supper_scene01.png"
+    ],
+    "timestamp": "2026-04-11T16:32:36.622036"
+  },
+  {
+    "story": "The Last Supper",
+    "scene": 2,
+    "prompt": "Everyone reclining around a long table with food and drink",
+    "status": "success",
+    "files": [
+      "bible_400_images\\31_The_Last_Supper\\31_The_Last_Supper_scene02.png"
+    ],
+    "timestamp": "2026-04-11T16:32:41.953978"
+  },
+  {
+    "story": "The Last Supper",
+    "scene": 3,
+    "prompt": "Jesus wrapping a towel around himself picking up a basin of water",
+    "status": "success",
+    "files": [
+      "bible_400_images\\31_The_Last_Supper\\31_The_Last_Supper_scene03.png"
+    ],
+    "timestamp": "2026-04-11T16:32:47.420160"
+  },
+  {
+    "story": "The Last Supper",
+    "scene": 4,
+    "prompt": "Jesus kneeling washing Peter's feet as Peter looks surprised",
+    "status": "success",
+    "files": [
+      "bible_400_images\\31_The_Last_Supper\\31_The_Last_Supper_scene04.png"
+    ],
+    "timestamp": "2026-04-11T16:32:52.771204"
+  },
+  {
+    "story": "The Last Supper",
+    "scene": 5,
+    "prompt": "Jesus explaining to disciples that they should serve one another",
+    "status": "success",
+    "files": [
+      "bible_400_images\\31_The_Last_Supper\\31_The_Last_Supper_scene05.png"
+    ],
+    "timestamp": "2026-04-11T16:32:58.286020"
+  },
+  {
+    "story": "The Last Supper",
+    "scene": 6,
+    "prompt": "Jesus taking bread in his hands and giving thanks",
+    "status": "success",
+    "files": [
+      "bible_400_images\\31_The_Last_Supper\\31_The_Last_Supper_scene06.png"
+    ],
+    "timestamp": "2026-04-11T16:33:03.352359"
+  },
+  {
+    "story": "The Last Supper",
+    "scene": 7,
+    "prompt": "Jesus breaking the bread and giving it to each disciple",
+    "status": "success",
+    "files": [
+      "bible_400_images\\31_The_Last_Supper\\31_The_Last_Supper_scene07.png"
+    ],
+    "timestamp": "2026-04-11T16:33:08.725974"
+  },
+  {
+    "story": "The Last Supper",
+    "scene": 8,
+    "prompt": "Jesus taking the cup of wine and lifting it up",
+    "status": "success",
+    "files": [
+      "bible_400_images\\31_The_Last_Supper\\31_The_Last_Supper_scene08.png"
+    ],
+    "timestamp": "2026-04-11T16:33:13.773351"
+  },
+  {
+    "story": "The Last Supper",
+    "scene": 9,
+    "prompt": "Jesus looking serious telling disciples one of them will betray him",
+    "status": "success",
+    "files": [
+      "bible_400_images\\31_The_Last_Supper\\31_The_Last_Supper_scene09.png"
+    ],
+    "timestamp": "2026-04-11T16:33:19.053499"
+  },
+  {
+    "story": "The Last Supper",
+    "scene": 10,
+    "prompt": "Disciples looking at each other confused and sad questioning who it could be",
+    "status": "success",
+    "files": [
+      "bible_400_images\\31_The_Last_Supper\\31_The_Last_Supper_scene10.png"
+    ],
+    "timestamp": "2026-04-11T16:33:24.148840"
+  },
+  {
+    "story": "Jesus in the Garden of Gethsemane",
+    "scene": 1,
+    "prompt": "Jesus and disciples walking to the Garden of Gethsemane at night",
+    "status": "success",
+    "files": [
+      "bible_400_images\\32_Jesus_in_the_Garden_of_Gethsem\\32_Jesus_in_the_Garden_of_Gethsem_scene01.png"
+    ],
+    "timestamp": "2026-04-11T16:33:29.461872"
+  },
+  {
+    "story": "Jesus in the Garden of Gethsemane",
+    "scene": 2,
+    "prompt": "Jesus asking Peter James and John to stay awake and watch",
+    "status": "success",
+    "files": [
+      "bible_400_images\\32_Jesus_in_the_Garden_of_Gethsem\\32_Jesus_in_the_Garden_of_Gethsem_scene02.png"
+    ],
+    "timestamp": "2026-04-11T16:33:35.809893"
+  },
+  {
+    "story": "Jesus in the Garden of Gethsemane",
+    "scene": 3,
+    "prompt": "Jesus walking further alone into the garden",
+    "status": "success",
+    "files": [
+      "bible_400_images\\32_Jesus_in_the_Garden_of_Gethsem\\32_Jesus_in_the_Garden_of_Gethsem_scene03.png"
+    ],
+    "timestamp": "2026-04-11T16:33:42.016749"
+  },
+  {
+    "story": "Jesus in the Garden of Gethsemane",
+    "scene": 4,
+    "prompt": "Jesus falling to his knees in prayer face down on the ground",
+    "status": "success",
+    "files": [
+      "bible_400_images\\32_Jesus_in_the_Garden_of_Gethsem\\32_Jesus_in_the_Garden_of_Gethsem_scene04.png"
+    ],
+    "timestamp": "2026-04-11T16:33:47.046255"
+  },
+  {
+    "story": "Jesus in the Garden of Gethsemane",
+    "scene": 5,
+    "prompt": "Jesus praying intensely with sweat like drops falling from his face",
+    "status": "success",
+    "files": [
+      "bible_400_images\\32_Jesus_in_the_Garden_of_Gethsem\\32_Jesus_in_the_Garden_of_Gethsem_scene05.png"
+    ],
+    "timestamp": "2026-04-11T16:33:52.154832"
+  },
+  {
+    "story": "Jesus in the Garden of Gethsemane",
+    "scene": 6,
+    "prompt": "An angel appearing to strengthen Jesus with a gentle glowing light",
+    "status": "success",
+    "files": [
+      "bible_400_images\\32_Jesus_in_the_Garden_of_Gethsem\\32_Jesus_in_the_Garden_of_Gethsem_scene06.png"
+    ],
+    "timestamp": "2026-04-11T16:33:57.223411"
+  },
+  {
+    "story": "Jesus in the Garden of Gethsemane",
+    "scene": 7,
+    "prompt": "Jesus returning to find the three disciples asleep",
+    "status": "success",
+    "files": [
+      "bible_400_images\\32_Jesus_in_the_Garden_of_Gethsem\\32_Jesus_in_the_Garden_of_Gethsem_scene07.png"
+    ],
+    "timestamp": "2026-04-11T16:34:02.411083"
+  },
+  {
+    "story": "Jesus in the Garden of Gethsemane",
+    "scene": 8,
+    "prompt": "Jesus gently waking them asking could you not watch one hour",
+    "status": "success",
+    "files": [
+      "bible_400_images\\32_Jesus_in_the_Garden_of_Gethsem\\32_Jesus_in_the_Garden_of_Gethsem_scene08.png"
+    ],
+    "timestamp": "2026-04-11T16:34:07.412740"
+  },
+  {
+    "story": "Jesus in the Garden of Gethsemane",
+    "scene": 9,
+    "prompt": "Jesus returning to pray again even more earnestly",
+    "status": "success",
+    "files": [
+      "bible_400_images\\32_Jesus_in_the_Garden_of_Gethsem\\32_Jesus_in_the_Garden_of_Gethsem_scene09.png"
+    ],
+    "timestamp": "2026-04-11T16:34:12.600093"
+  },
+  {
+    "story": "Jesus in the Garden of Gethsemane",
+    "scene": 10,
+    "prompt": "Judas arriving with soldiers and torches as Jesus stands to meet them",
+    "status": "success",
+    "files": [
+      "bible_400_images\\32_Jesus_in_the_Garden_of_Gethsem\\32_Jesus_in_the_Garden_of_Gethsem_scene10.png"
+    ],
+    "timestamp": "2026-04-11T16:34:17.667133"
+  },
+  {
+    "story": "The Resurrection",
+    "scene": 1,
+    "prompt": "A large sealed tomb with a great stone rolled across the entrance",
+    "status": "success",
+    "files": [
+      "bible_400_images\\33_The_Resurrection\\33_The_Resurrection_scene01.png"
+    ],
+    "timestamp": "2026-04-11T16:34:22.844820"
+  },
+  {
+    "story": "The Resurrection",
+    "scene": 2,
+    "prompt": "Mary Magdalene and other women walking to the tomb early in the morning",
+    "status": "success",
+    "files": [
+      "bible_400_images\\33_The_Resurrection\\33_The_Resurrection_scene02.png"
+    ],
+    "timestamp": "2026-04-11T16:34:27.994220"
+  },
+  {
+    "story": "The Resurrection",
+    "scene": 3,
+    "prompt": "A great earthquake and an angel descending from heaven in brilliant light",
+    "status": "success",
+    "files": [
+      "bible_400_images\\33_The_Resurrection\\33_The_Resurrection_scene03.png"
+    ],
+    "timestamp": "2026-04-11T16:34:32.963698"
+  },
+  {
+    "story": "The Resurrection",
+    "scene": 4,
+    "prompt": "The angel rolling back the stone and sitting on it guards falling like dead",
+    "status": "success",
+    "files": [
+      "bible_400_images\\33_The_Resurrection\\33_The_Resurrection_scene04.png"
+    ],
+    "timestamp": "2026-04-11T16:34:38.036699"
+  },
+  {
+    "story": "The Resurrection",
+    "scene": 5,
+    "prompt": "The women arriving and finding the stone already rolled away",
+    "status": "success",
+    "files": [
+      "bible_400_images\\33_The_Resurrection\\33_The_Resurrection_scene05.png"
+    ],
+    "timestamp": "2026-04-11T16:34:43.155049"
+  },
+  {
+    "story": "The Resurrection",
+    "scene": 6,
+    "prompt": "The women looking into the empty tomb in shock",
+    "status": "success",
+    "files": [
+      "bible_400_images\\33_The_Resurrection\\33_The_Resurrection_scene06.png"
+    ],
+    "timestamp": "2026-04-11T16:34:48.214925"
+  },
+  {
+    "story": "The Resurrection",
+    "scene": 7,
+    "prompt": "Two angels inside the tomb in shining clothes speaking to the women",
+    "status": "success",
+    "files": [
+      "bible_400_images\\33_The_Resurrection\\33_The_Resurrection_scene07.png"
+    ],
+    "timestamp": "2026-04-11T16:34:53.419003"
+  },
+  {
+    "story": "The Resurrection",
+    "scene": 8,
+    "prompt": "The women running away from the tomb with fear and great joy",
+    "status": "success",
+    "files": [
+      "bible_400_images\\33_The_Resurrection\\33_The_Resurrection_scene08.png"
+    ],
+    "timestamp": "2026-04-11T16:34:58.489905"
+  },
+  {
+    "story": "The Resurrection",
+    "scene": 9,
+    "prompt": "Mary Magdalene meeting Jesus in the garden thinking he is the gardener",
+    "status": "success",
+    "files": [
+      "bible_400_images\\33_The_Resurrection\\33_The_Resurrection_scene09.png"
+    ],
+    "timestamp": "2026-04-11T16:35:03.604099"
+  },
+  {
+    "story": "The Resurrection",
+    "scene": 10,
+    "prompt": "Jesus calling Mary by name and she turning to recognise him with joy",
+    "status": "success",
+    "files": [
+      "bible_400_images\\33_The_Resurrection\\33_The_Resurrection_scene10.png"
+    ],
+    "timestamp": "2026-04-11T16:35:08.895516"
+  },
+  {
+    "story": "Road to Emmaus",
+    "scene": 1,
+    "prompt": "Two sad disciples walking along a dusty road away from Jerusalem",
+    "status": "success",
+    "files": [
+      "bible_400_images\\34_Road_to_Emmaus\\34_Road_to_Emmaus_scene01.png"
+    ],
+    "timestamp": "2026-04-11T16:35:14.069828"
+  },
+  {
+    "story": "Road to Emmaus",
+    "scene": 2,
+    "prompt": "A stranger joining them and walking alongside them",
+    "status": "success",
+    "files": [
+      "bible_400_images\\34_Road_to_Emmaus\\34_Road_to_Emmaus_scene02.png"
+    ],
+    "timestamp": "2026-04-11T16:35:18.969384"
+  },
+  {
+    "story": "Road to Emmaus",
+    "scene": 3,
+    "prompt": "The disciples telling the stranger about Jesus and looking downcast",
+    "status": "success",
+    "files": [
+      "bible_400_images\\34_Road_to_Emmaus\\34_Road_to_Emmaus_scene03.png"
+    ],
+    "timestamp": "2026-04-11T16:35:23.825124"
+  },
+  {
+    "story": "Road to Emmaus",
+    "scene": 4,
+    "prompt": "The stranger beginning to explain the scriptures to them",
+    "status": "success",
+    "files": [
+      "bible_400_images\\34_Road_to_Emmaus\\34_Road_to_Emmaus_scene04.png"
+    ],
+    "timestamp": "2026-04-11T16:35:28.763221"
+  },
+  {
+    "story": "Road to Emmaus",
+    "scene": 5,
+    "prompt": "The disciples listening with growing interest and curiosity",
+    "status": "error",
+    "error": "HTTPSConnectionPool(host='v3b.fal.media', port=443): Read timed out. (read timeout=60)",
+    "timestamp": "2026-04-11T16:36:33.334582"
+  },
+  {
+    "story": "Road to Emmaus",
+    "scene": 6,
+    "prompt": "The three arriving at a village in the evening",
+    "status": "success",
+    "files": [
+      "bible_400_images\\34_Road_to_Emmaus\\34_Road_to_Emmaus_scene06.png"
+    ],
+    "timestamp": "2026-04-11T16:36:38.565668"
+  },
+  {
+    "story": "Road to Emmaus",
+    "scene": 7,
+    "prompt": "The disciples inviting the stranger to stay with them",
+    "status": "success",
+    "files": [
+      "bible_400_images\\34_Road_to_Emmaus\\34_Road_to_Emmaus_scene07.png"
+    ],
+    "timestamp": "2026-04-11T16:36:43.662220"
+  },
+  {
+    "story": "Road to Emmaus",
+    "scene": 8,
+    "prompt": "The three sitting down together for a meal",
+    "status": "success",
+    "files": [
+      "bible_400_images\\34_Road_to_Emmaus\\34_Road_to_Emmaus_scene08.png"
+    ],
+    "timestamp": "2026-04-11T16:36:48.955730"
+  },
+  {
+    "story": "Road to Emmaus",
+    "scene": 9,
+    "prompt": "The stranger taking bread and breaking it",
+    "status": "success",
+    "files": [
+      "bible_400_images\\34_Road_to_Emmaus\\34_Road_to_Emmaus_scene09.png"
+    ],
+    "timestamp": "2026-04-11T16:36:54.322278"
+  },
+  {
+    "story": "Road to Emmaus",
+    "scene": 10,
+    "prompt": "The disciples recognising it is Jesus who then vanishes from sight",
+    "status": "success",
+    "files": [
+      "bible_400_images\\34_Road_to_Emmaus\\34_Road_to_Emmaus_scene10.png"
+    ],
+    "timestamp": "2026-04-11T16:36:59.521910"
+  },
+  {
+    "story": "Jesus Ascends to Heaven",
+    "scene": 1,
+    "prompt": "Jesus appearing to disciples who are eating together",
+    "status": "success",
+    "files": [
+      "bible_400_images\\35_Jesus_Ascends_to_Heaven\\35_Jesus_Ascends_to_Heaven_scene01.png"
+    ],
+    "timestamp": "2026-04-11T16:37:04.643020"
+  },
+  {
+    "story": "Jesus Ascends to Heaven",
+    "scene": 2,
+    "prompt": "Jesus telling disciples to wait in Jerusalem for the Holy Spirit",
+    "status": "success",
+    "files": [
+      "bible_400_images\\35_Jesus_Ascends_to_Heaven\\35_Jesus_Ascends_to_Heaven_scene02.png"
+    ],
+    "timestamp": "2026-04-11T16:37:09.730878"
+  },
+  {
+    "story": "Jesus Ascends to Heaven",
+    "scene": 3,
+    "prompt": "Jesus leading the disciples out toward Bethany",
+    "status": "success",
+    "files": [
+      "bible_400_images\\35_Jesus_Ascends_to_Heaven\\35_Jesus_Ascends_to_Heaven_scene03.png"
+    ],
+    "timestamp": "2026-04-11T16:37:14.658293"
+  },
+  {
+    "story": "Jesus Ascends to Heaven",
+    "scene": 4,
+    "prompt": "The disciples gathered around Jesus on the Mount of Olives",
+    "status": "success",
+    "files": [
+      "bible_400_images\\35_Jesus_Ascends_to_Heaven\\35_Jesus_Ascends_to_Heaven_scene04.png"
+    ],
+    "timestamp": "2026-04-11T16:37:19.571643"
+  },
+  {
+    "story": "Jesus Ascends to Heaven",
+    "scene": 5,
+    "prompt": "Jesus lifting his hands and blessing his disciples",
+    "status": "error",
+    "error": "HTTPSConnectionPool(host='v3b.fal.media', port=443): Read timed out. (read timeout=60)",
+    "timestamp": "2026-04-11T16:38:24.249810"
+  },
+  {
+    "story": "Jesus Ascends to Heaven",
+    "scene": 6,
+    "prompt": "Jesus beginning to rise up from the ground",
+    "status": "success",
+    "files": [
+      "bible_400_images\\35_Jesus_Ascends_to_Heaven\\35_Jesus_Ascends_to_Heaven_scene06.png"
+    ],
+    "timestamp": "2026-04-11T16:38:29.397007"
+  },
+  {
+    "story": "Jesus Ascends to Heaven",
+    "scene": 7,
+    "prompt": "Jesus ascending higher and higher into the sky",
+    "status": "error",
+    "error": "HTTPSConnectionPool(host='v3b.fal.media', port=443): Read timed out. (read timeout=60)",
+    "timestamp": "2026-04-11T16:39:34.134994"
+  },
+  {
+    "story": "Jesus Ascends to Heaven",
+    "scene": 8,
+    "prompt": "A cloud receiving Jesus and hiding him from the disciples view",
+    "status": "success",
+    "files": [
+      "bible_400_images\\35_Jesus_Ascends_to_Heaven\\35_Jesus_Ascends_to_Heaven_scene08.png"
+    ],
+    "timestamp": "2026-04-11T16:39:38.579913"
+  },
+  {
+    "story": "Jesus Ascends to Heaven",
+    "scene": 9,
+    "prompt": "The disciples staring up into the sky with wonder",
+    "status": "success",
+    "files": [
+      "bible_400_images\\35_Jesus_Ascends_to_Heaven\\35_Jesus_Ascends_to_Heaven_scene09.png"
+    ],
+    "timestamp": "2026-04-11T16:39:42.980153"
+  },
+  {
+    "story": "Jesus Ascends to Heaven",
+    "scene": 10,
+    "prompt": "Two angels in white appearing beside the disciples with a message",
+    "status": "success",
+    "files": [
+      "bible_400_images\\35_Jesus_Ascends_to_Heaven\\35_Jesus_Ascends_to_Heaven_scene10.png"
+    ],
+    "timestamp": "2026-04-11T16:39:47.372341"
+  },
+  {
+    "story": "Pentecost - The Holy Spirit Comes",
+    "scene": 1,
+    "prompt": "The disciples gathered together in a room in Jerusalem praying",
+    "status": "success",
+    "files": [
+      "bible_400_images\\36_Pentecost_-_The_Holy_Spirit_Co\\36_Pentecost_-_The_Holy_Spirit_Co_scene01.png"
+    ],
+    "timestamp": "2026-04-11T16:39:51.879006"
+  },
+  {
+    "story": "Pentecost - The Holy Spirit Comes",
+    "scene": 2,
+    "prompt": "The disciples praying together with serious focused expressions",
+    "status": "success",
+    "files": [
+      "bible_400_images\\36_Pentecost_-_The_Holy_Spirit_Co\\36_Pentecost_-_The_Holy_Spirit_Co_scene02.png"
+    ],
+    "timestamp": "2026-04-11T16:39:57.578987"
+  },
+  {
+    "story": "Pentecost - The Holy Spirit Comes",
+    "scene": 3,
+    "prompt": "A sudden sound like a rushing mighty wind filling the whole house",
+    "status": "success",
+    "files": [
+      "bible_400_images\\36_Pentecost_-_The_Holy_Spirit_Co\\36_Pentecost_-_The_Holy_Spirit_Co_scene03.png"
+    ],
+    "timestamp": "2026-04-11T16:40:02.099517"
+  },
+  {
+    "story": "Pentecost - The Holy Spirit Comes",
+    "scene": 4,
+    "prompt": "Tongues of fire appearing and resting on each person's head",
+    "status": "success",
+    "files": [
+      "bible_400_images\\36_Pentecost_-_The_Holy_Spirit_Co\\36_Pentecost_-_The_Holy_Spirit_Co_scene04.png"
+    ],
+    "timestamp": "2026-04-11T16:40:06.516902"
+  },
+  {
+    "story": "Pentecost - The Holy Spirit Comes",
+    "scene": 5,
+    "prompt": "All the disciples beginning to speak in different languages",
+    "status": "success",
+    "files": [
+      "bible_400_images\\36_Pentecost_-_The_Holy_Spirit_Co\\36_Pentecost_-_The_Holy_Spirit_Co_scene05.png"
+    ],
+    "timestamp": "2026-04-11T16:40:10.926095"
+  },
+  {
+    "story": "Pentecost - The Holy Spirit Comes",
+    "scene": 6,
+    "prompt": "A large crowd of people from many nations gathering outside",
+    "status": "success",
+    "files": [
+      "bible_400_images\\36_Pentecost_-_The_Holy_Spirit_Co\\36_Pentecost_-_The_Holy_Spirit_Co_scene06.png"
+    ],
+    "timestamp": "2026-04-11T16:40:15.388700"
+  },
+  {
+    "story": "Pentecost - The Holy Spirit Comes",
+    "scene": 7,
+    "prompt": "People in the crowd hearing their own language being spoken",
+    "status": "error",
+    "error": "HTTPSConnectionPool(host='v3b.fal.media', port=443): Read timed out. (read timeout=60)",
+    "timestamp": "2026-04-11T16:41:19.403899"
+  },
+  {
+    "story": "Pentecost - The Holy Spirit Comes",
+    "scene": 8,
+    "prompt": "Some people mocking saying the disciples are drunk",
+    "status": "success",
+    "files": [
+      "bible_400_images\\36_Pentecost_-_The_Holy_Spirit_Co\\36_Pentecost_-_The_Holy_Spirit_Co_scene08.png"
+    ],
+    "timestamp": "2026-04-11T16:41:24.063190"
+  },
+  {
+    "story": "Pentecost - The Holy Spirit Comes",
+    "scene": 9,
+    "prompt": "Peter standing up boldly and preaching to the whole crowd",
+    "status": "success",
+    "files": [
+      "bible_400_images\\36_Pentecost_-_The_Holy_Spirit_Co\\36_Pentecost_-_The_Holy_Spirit_Co_scene09.png"
+    ],
+    "timestamp": "2026-04-11T16:41:28.513141"
+  },
+  {
+    "story": "Pentecost - The Holy Spirit Comes",
+    "scene": 10,
+    "prompt": "Three thousand people being baptised and joining the new church",
+    "status": "success",
+    "files": [
+      "bible_400_images\\36_Pentecost_-_The_Holy_Spirit_Co\\36_Pentecost_-_The_Holy_Spirit_Co_scene10.png"
+    ],
+    "timestamp": "2026-04-11T16:41:33.353057"
+  },
+  {
+    "story": "Peter and John Heal a Lame Man",
+    "scene": 1,
+    "prompt": "A lame man being carried and placed at the temple gate called Beautiful",
+    "status": "success",
+    "files": [
+      "bible_400_images\\37_Peter_and_John_Heal_a_Lame_Man\\37_Peter_and_John_Heal_a_Lame_Man_scene01.png"
+    ],
+    "timestamp": "2026-04-11T16:41:37.609019"
+  },
+  {
+    "story": "Peter and John Heal a Lame Man",
+    "scene": 2,
+    "prompt": "The lame man begging from people passing into the temple",
+    "status": "success",
+    "files": [
+      "bible_400_images\\37_Peter_and_John_Heal_a_Lame_Man\\37_Peter_and_John_Heal_a_Lame_Man_scene02.png"
+    ],
+    "timestamp": "2026-04-11T16:41:42.347632"
+  },
+  {
+    "story": "Peter and John Heal a Lame Man",
+    "scene": 3,
+    "prompt": "Peter and John arriving at the temple gate",
+    "status": "success",
+    "files": [
+      "bible_400_images\\37_Peter_and_John_Heal_a_Lame_Man\\37_Peter_and_John_Heal_a_Lame_Man_scene03.png"
+    ],
+    "timestamp": "2026-04-11T16:41:46.751955"
+  },
+  {
+    "story": "Peter and John Heal a Lame Man",
+    "scene": 4,
+    "prompt": "The lame man reaching out asking them for money",
+    "status": "success",
+    "files": [
+      "bible_400_images\\37_Peter_and_John_Heal_a_Lame_Man\\37_Peter_and_John_Heal_a_Lame_Man_scene04.png"
+    ],
+    "timestamp": "2026-04-11T16:41:51.163734"
+  },
+  {
+    "story": "Peter and John Heal a Lame Man",
+    "scene": 5,
+    "prompt": "Peter looking directly at the man saying look at us",
+    "status": "success",
+    "files": [
+      "bible_400_images\\37_Peter_and_John_Heal_a_Lame_Man\\37_Peter_and_John_Heal_a_Lame_Man_scene05.png"
+    ],
+    "timestamp": "2026-04-11T16:41:55.745357"
+  },
+  {
+    "story": "Peter and John Heal a Lame Man",
+    "scene": 6,
+    "prompt": "The lame man looking up at them expectantly",
+    "status": "success",
+    "files": [
+      "bible_400_images\\37_Peter_and_John_Heal_a_Lame_Man\\37_Peter_and_John_Heal_a_Lame_Man_scene06.png"
+    ],
+    "timestamp": "2026-04-11T16:42:00.118783"
+  },
+  {
+    "story": "Peter and John Heal a Lame Man",
+    "scene": 7,
+    "prompt": "Peter declaring silver and gold I have none but what I have I give you",
+    "status": "success",
+    "files": [
+      "bible_400_images\\37_Peter_and_John_Heal_a_Lame_Man\\37_Peter_and_John_Heal_a_Lame_Man_scene07.png"
+    ],
+    "timestamp": "2026-04-11T16:42:04.562182"
+  },
+  {
+    "story": "Peter and John Heal a Lame Man",
+    "scene": 8,
+    "prompt": "Peter taking the man's right hand and lifting him up",
+    "status": "success",
+    "files": [
+      "bible_400_images\\37_Peter_and_John_Heal_a_Lame_Man\\37_Peter_and_John_Heal_a_Lame_Man_scene08.png"
+    ],
+    "timestamp": "2026-04-11T16:42:08.955274"
+  },
+  {
+    "story": "Peter and John Heal a Lame Man",
+    "scene": 9,
+    "prompt": "The man's feet and ankles becoming strong instantly",
+    "status": "success",
+    "files": [
+      "bible_400_images\\37_Peter_and_John_Heal_a_Lame_Man\\37_Peter_and_John_Heal_a_Lame_Man_scene09.png"
+    ],
+    "timestamp": "2026-04-11T16:42:13.350847"
+  },
+  {
+    "story": "Peter and John Heal a Lame Man",
+    "scene": 10,
+    "prompt": "The man jumping walking and leaping praising God in the temple",
+    "status": "success",
+    "files": [
+      "bible_400_images\\37_Peter_and_John_Heal_a_Lame_Man\\37_Peter_and_John_Heal_a_Lame_Man_scene10.png"
+    ],
+    "timestamp": "2026-04-11T16:42:22.398105"
+  },
+  {
+    "story": "Paul's Conversion on the Road to Damascus",
+    "scene": 1,
+    "prompt": "Paul riding a horse confidently with letters to arrest Christians",
+    "status": "success",
+    "files": [
+      "bible_400_images\\38_Pauls_Conversion_on_the_Road\\38_Pauls_Conversion_on_the_Road_scene01.png"
+    ],
+    "timestamp": "2026-04-11T16:42:26.843996"
+  },
+  {
+    "story": "Paul's Conversion on the Road to Damascus",
+    "scene": 2,
+    "prompt": "Paul and his companions riding along a dusty road to Damascus",
+    "status": "success",
+    "files": [
+      "bible_400_images\\38_Pauls_Conversion_on_the_Road\\38_Pauls_Conversion_on_the_Road_scene02.png"
+    ],
+    "timestamp": "2026-04-11T16:42:31.377920"
+  },
+  {
+    "story": "Paul's Conversion on the Road to Damascus",
+    "scene": 3,
+    "prompt": "A blinding light suddenly flashing from the sky around Paul",
+    "status": "success",
+    "files": [
+      "bible_400_images\\38_Pauls_Conversion_on_the_Road\\38_Pauls_Conversion_on_the_Road_scene03.png"
+    ],
+    "timestamp": "2026-04-11T16:42:39.558535"
+  },
+  {
+    "story": "Paul's Conversion on the Road to Damascus",
+    "scene": 4,
+    "prompt": "Paul falling off his horse to the ground",
+    "status": "success",
+    "files": [
+      "bible_400_images\\38_Pauls_Conversion_on_the_Road\\38_Pauls_Conversion_on_the_Road_scene04.png"
+    ],
+    "timestamp": "2026-04-11T16:42:44.160296"
+  },
+  {
+    "story": "Paul's Conversion on the Road to Damascus",
+    "scene": 5,
+    "prompt": "Paul lying on the ground covering his eyes from the brilliant light",
+    "status": "success",
+    "files": [
+      "bible_400_images\\38_Pauls_Conversion_on_the_Road\\38_Pauls_Conversion_on_the_Road_scene05.png"
+    ],
+    "timestamp": "2026-04-11T16:42:48.436780"
+  },
+  {
+    "story": "Paul's Conversion on the Road to Damascus",
+    "scene": 6,
+    "prompt": "A voice calling from the light Saul Saul why do you persecute me",
+    "status": "success",
+    "files": [
+      "bible_400_images\\38_Pauls_Conversion_on_the_Road\\38_Pauls_Conversion_on_the_Road_scene06.png"
+    ],
+    "timestamp": "2026-04-11T16:42:52.854864"
+  },
+  {
+    "story": "Paul's Conversion on the Road to Damascus",
+    "scene": 7,
+    "prompt": "Paul asking trembling who are you Lord",
+    "status": "success",
+    "files": [
+      "bible_400_images\\38_Pauls_Conversion_on_the_Road\\38_Pauls_Conversion_on_the_Road_scene07.png"
+    ],
+    "timestamp": "2026-04-11T16:42:57.373197"
+  },
+  {
+    "story": "Paul's Conversion on the Road to Damascus",
+    "scene": 8,
+    "prompt": "Paul's companions standing speechless hearing a sound but seeing no one",
+    "status": "success",
+    "files": [
+      "bible_400_images\\38_Pauls_Conversion_on_the_Road\\38_Pauls_Conversion_on_the_Road_scene08.png"
+    ],
+    "timestamp": "2026-04-11T16:43:01.865072"
+  },
+  {
+    "story": "Paul's Conversion on the Road to Damascus",
+    "scene": 9,
+    "prompt": "Paul being helped up blind led by hand into Damascus",
+    "status": "success",
+    "files": [
+      "bible_400_images\\38_Pauls_Conversion_on_the_Road\\38_Pauls_Conversion_on_the_Road_scene09.png"
+    ],
+    "timestamp": "2026-04-11T16:43:06.180116"
+  },
+  {
+    "story": "Paul's Conversion on the Road to Damascus",
+    "scene": 10,
+    "prompt": "Paul sitting in a house fasting and praying waiting on God",
+    "status": "success",
+    "files": [
+      "bible_400_images\\38_Pauls_Conversion_on_the_Road\\38_Pauls_Conversion_on_the_Road_scene10.png"
+    ],
+    "timestamp": "2026-04-11T16:43:10.490463"
+  },
+  {
+    "story": "Paul and Silas in Prison",
+    "scene": 1,
+    "prompt": "Paul and Silas preaching boldly in the city of Philippi",
+    "status": "success",
+    "files": [
+      "bible_400_images\\39_Paul_and_Silas_in_Prison\\39_Paul_and_Silas_in_Prison_scene01.png"
+    ],
+    "timestamp": "2026-04-11T16:43:14.978794"
+  },
+  {
+    "story": "Paul and Silas in Prison",
+    "scene": 2,
+    "prompt": "Paul casting out an evil spirit from a troubled girl",
+    "status": "success",
+    "files": [
+      "bible_400_images\\39_Paul_and_Silas_in_Prison\\39_Paul_and_Silas_in_Prison_scene02.png"
+    ],
+    "timestamp": "2026-04-11T16:43:19.304235"
+  },
+  {
+    "story": "Paul and Silas in Prison",
+    "scene": 3,
+    "prompt": "Angry men dragging Paul and Silas before the city rulers",
+    "status": "success",
+    "files": [
+      "bible_400_images\\39_Paul_and_Silas_in_Prison\\39_Paul_and_Silas_in_Prison_scene03.png"
+    ],
+    "timestamp": "2026-04-11T16:43:23.647465"
+  },
+  {
+    "story": "Paul and Silas in Prison",
+    "scene": 4,
+    "prompt": "The crowd joining the attack against Paul and Silas",
+    "status": "success",
+    "files": [
+      "bible_400_images\\39_Paul_and_Silas_in_Prison\\39_Paul_and_Silas_in_Prison_scene04.png"
+    ],
+    "timestamp": "2026-04-11T16:43:28.293977"
+  },
+  {
+    "story": "Paul and Silas in Prison",
+    "scene": 5,
+    "prompt": "Paul and Silas being beaten with rods",
+    "status": "success",
+    "files": [
+      "bible_400_images\\39_Paul_and_Silas_in_Prison\\39_Paul_and_Silas_in_Prison_scene05.png"
+    ],
+    "timestamp": "2026-04-11T16:43:33.022714"
+  },
+  {
+    "story": "Paul and Silas in Prison",
+    "scene": 6,
+    "prompt": "Paul and Silas thrown into the inner prison with feet in stocks",
+    "status": "success",
+    "files": [
+      "bible_400_images\\39_Paul_and_Silas_in_Prison\\39_Paul_and_Silas_in_Prison_scene06.png"
+    ],
+    "timestamp": "2026-04-11T16:43:37.722341"
+  },
+  {
+    "story": "Paul and Silas in Prison",
+    "scene": 7,
+    "prompt": "Paul and Silas sitting in the dark prison praying and singing hymns",
+    "status": "success",
+    "files": [
+      "bible_400_images\\39_Paul_and_Silas_in_Prison\\39_Paul_and_Silas_in_Prison_scene07.png"
+    ],
+    "timestamp": "2026-04-11T16:43:42.320090"
+  },
+  {
+    "story": "Paul and Silas in Prison",
+    "scene": 8,
+    "prompt": "Other prisoners listening to them singing in the darkness",
+    "status": "success",
+    "files": [
+      "bible_400_images\\39_Paul_and_Silas_in_Prison\\39_Paul_and_Silas_in_Prison_scene08.png"
+    ],
+    "timestamp": "2026-04-11T16:43:47.021095"
+  },
+  {
+    "story": "Paul and Silas in Prison",
+    "scene": 9,
+    "prompt": "A great earthquake shaking the prison doors flying open chains falling off",
+    "status": "success",
+    "files": [
+      "bible_400_images\\39_Paul_and_Silas_in_Prison\\39_Paul_and_Silas_in_Prison_scene09.png"
+    ],
+    "timestamp": "2026-04-11T16:43:51.657953"
+  },
+  {
+    "story": "Paul and Silas in Prison",
+    "scene": 10,
+    "prompt": "The jailer falling before Paul and Silas asking how to be saved",
+    "status": "success",
+    "files": [
+      "bible_400_images\\39_Paul_and_Silas_in_Prison\\39_Paul_and_Silas_in_Prison_scene10.png"
+    ],
+    "timestamp": "2026-04-11T16:43:56.467142"
+  },
+  {
+    "story": "John's Vision of Heaven",
+    "scene": 1,
+    "prompt": "John the apostle old and alone on the rocky island of Patmos",
+    "status": "success",
+    "files": [
+      "bible_400_images\\40_Johns_Vision_of_Heaven\\40_Johns_Vision_of_Heaven_scene01.png"
+    ],
+    "timestamp": "2026-04-11T16:44:01.098949"
+  },
+  {
+    "story": "John's Vision of Heaven",
+    "scene": 2,
+    "prompt": "John hearing a loud voice like a trumpet behind him",
+    "status": "success",
+    "files": [
+      "bible_400_images\\40_Johns_Vision_of_Heaven\\40_Johns_Vision_of_Heaven_scene02.png"
+    ],
+    "timestamp": "2026-04-11T16:44:05.823457"
+  },
+  {
+    "story": "John's Vision of Heaven",
+    "scene": 3,
+    "prompt": "John turning to see seven golden lampstands glowing brilliantly",
+    "status": "success",
+    "files": [
+      "bible_400_images\\40_Johns_Vision_of_Heaven\\40_Johns_Vision_of_Heaven_scene03.png"
+    ],
+    "timestamp": "2026-04-11T16:44:10.582381"
+  },
+  {
+    "story": "John's Vision of Heaven",
+    "scene": 4,
+    "prompt": "Jesus appearing among the lampstands in glorified form shining like the sun",
+    "status": "success",
+    "files": [
+      "bible_400_images\\40_Johns_Vision_of_Heaven\\40_Johns_Vision_of_Heaven_scene04.png"
+    ],
+    "timestamp": "2026-04-11T16:44:15.190675"
+  },
+  {
+    "story": "John's Vision of Heaven",
+    "scene": 5,
+    "prompt": "John falling at Jesus's feet like a dead man overwhelmed",
+    "status": "success",
+    "files": [
+      "bible_400_images\\40_Johns_Vision_of_Heaven\\40_Johns_Vision_of_Heaven_scene05.png"
+    ],
+    "timestamp": "2026-04-11T16:44:19.784018"
+  },
+  {
+    "story": "John's Vision of Heaven",
+    "scene": 6,
+    "prompt": "Jesus placing His right hand on John and saying do not be afraid",
+    "status": "success",
+    "files": [
+      "bible_400_images\\40_Johns_Vision_of_Heaven\\40_Johns_Vision_of_Heaven_scene06.png"
+    ],
+    "timestamp": "2026-04-11T16:44:24.370253"
+  },
+  {
+    "story": "John's Vision of Heaven",
+    "scene": 7,
+    "prompt": "John seeing a door open in heaven and being invited to come up",
+    "status": "success",
+    "files": [
+      "bible_400_images\\40_Johns_Vision_of_Heaven\\40_Johns_Vision_of_Heaven_scene07.png"
+    ],
+    "timestamp": "2026-04-11T16:44:28.976775"
+  },
+  {
+    "story": "John's Vision of Heaven",
+    "scene": 8,
+    "prompt": "John seeing God's throne surrounded by rainbow light and twenty four elders",
+    "status": "success",
+    "files": [
+      "bible_400_images\\40_Johns_Vision_of_Heaven\\40_Johns_Vision_of_Heaven_scene08.png"
+    ],
+    "timestamp": "2026-04-11T16:44:33.585420"
+  },
+  {
+    "story": "John's Vision of Heaven",
+    "scene": 9,
+    "prompt": "Thousands upon thousands of angels worshipping around the throne",
+    "status": "success",
+    "files": [
+      "bible_400_images\\40_Johns_Vision_of_Heaven\\40_Johns_Vision_of_Heaven_scene09.png"
+    ],
+    "timestamp": "2026-04-11T16:44:38.249199"
+  },
+  {
+    "story": "John's Vision of Heaven",
+    "scene": 10,
+    "prompt": "John seeing a vision of a new heaven and new earth everything made new",
+    "status": "success",
+    "files": [
+      "bible_400_images\\40_Johns_Vision_of_Heaven\\40_Johns_Vision_of_Heaven_scene10.png"
+    ],
+    "timestamp": "2026-04-11T16:44:43.120524"
+  }
+]
